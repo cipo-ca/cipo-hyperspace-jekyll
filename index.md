@@ -15,7 +15,10 @@ sidebar:
       url: '#three'
       is_primary: false
 sections:
-  - title: Hyperspace
+  - title:
+    logo_img:
+      path: images/CIPO_logo.png 
+      data_position: center center
     subtitle: |-
       Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
       col accumsan est arcu donec sed Eleifend Integer.
