@@ -1,0 +1,35 @@
+---
+layout: body
+---
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Main -->
+    <section id="main" class="wrapper">
+        <div class="inner">
+            <span class="image fit"><img src="{{ page.content_img_path | relative_url }}" alt="" /></span>
+            <h1>{{ page.title }}</h1>
+            {{ content }}
+
+            <div class="articles">
+                {%- if strapi.collections.articles.size > 0 -%}
+                <ul class="article-list">
+                    {%- for article in strapi.collections.articles -%}
+                    <li>
+                        <span class="article-meta">{{ article.createdAt | date_to_string }} by {{ article.author.username }}</span>
+                        <h3>
+                            <a class="article-link" href="{{ article.url | relative_url }}">
+                                {{ article.title }}
+                            </a>
+                        </h3>
+                        <!-- Display an excerpt of the article -->
+                        <p>{{ post.content | markdownify | strip_html | truncatewords: 10 }}</p>
+                    </li>
+                    {%- endfor -%}
+                </ul>
+                {%- endif -%}
+            </div>
+        </div>
+    </section>
+</div>
