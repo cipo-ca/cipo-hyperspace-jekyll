@@ -1,4 +1,5 @@
-title: Hyperspace
+title: CIPO
+logo: images/CIPO_logo.png
 baseurl: /
 permalink: '/:title/'
 collections:

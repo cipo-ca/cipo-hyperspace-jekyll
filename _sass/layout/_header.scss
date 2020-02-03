@@ -10,16 +10,24 @@
 		@include vendor('display', 'flex');
 		background-color: _palette(accent1);
 		cursor: default;
-		padding: 1.75em 2em;
+		padding: 0.75em 2em 0 2em;
 
-		> .title {
-			border: 0;
-			color: _palette(fg-bold);
-			display: block;
-			font-size: 1.25em;
-			font-weight: _font(weight-bold);
+		.site-logo {
+          border: 0 ;
 		}
 
+		.site-logo img {
+			height: 75px;
+		}
+		/*
+                > .title {
+                    border: 0;
+                    color: _palette(fg-bold);
+                    display: block;
+                    font-size: 1.25em;
+                    font-weight: _font(weight-bold);
+                }
+        */
 		> nav {
 			@include vendor('flex', '1');
 			text-align: right;

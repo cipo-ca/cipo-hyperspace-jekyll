@@ -1,6 +1,8 @@
 <!-- Header -->
 <header id="header">
-    <a href="{{ '/' | relative_url }}" class="title">{{ site.title }}</a>
+    <!-- <a href="{{ '/' | relative_url }}" class="title">{{ site.title }}</a> -->
+    <a href="{{ '/' | relative_url }}" class="site-logo" ><img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" /></a>
+
     <nav>
         <ul>
             {% for item in site.menus.main %}
