@@ -44,7 +44,7 @@ exclude:
   - LICENSE.md
   - README.md
   - netlify.toml
-  - stackbit-build.sh
+  - cipo-build.sh
   - stackbit-pull.js
 
 strapi:
