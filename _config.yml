@@ -49,7 +49,7 @@ exclude:
 
 strapi:
   # Your API endpoint (optional, default to http://localhost:1337)
-  endpoint: http://localhost:1337
+  endpoint: http://45.77.211.34/:1337
   # Collections, key is used to access in the strapi.collections
   # template variable
   collections:
