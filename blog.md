@@ -8,7 +8,7 @@ home_spotlights:
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
   home_img:
-    path: images/pic01.jpg
+    path: images/zebras.jpg
     data_position: center center
     url: '#'
 layout: articles
