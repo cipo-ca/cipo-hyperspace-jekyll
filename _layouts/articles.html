@@ -24,7 +24,7 @@ layout: body
                             </a>
                         </h3>
                         <!-- Display an excerpt of the article -->
-                        <p>{{ post.content | markdownify | strip_html | truncatewords: 10 }}</p>
+                        <p>{{ article.content | markdownify | strip_html | truncatewords: 10 }}</p>
                     </li>
                     {%- endfor -%}
                 </ul>
