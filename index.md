@@ -2,13 +2,13 @@
 title: Home
 sidebar:
   entries:
-    - title: Welcome
+    - title: We Are CIPO
       url: '#intro'
       is_primary: true
-    - title: Who we are
+    - title: What we do
       url: '#one'
       is_primary: false
-    - title: What we do
+    - title: Subscribe
       url: '#two'
       is_primary: false
     - title: Get in touch
@@ -20,8 +20,8 @@ sections:
       path: images/CIPO_logo.png 
       data_position: center center
     subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+      We are the Canadian Immunodeficiencies Patient Organization.  
+      A Community of PI patients accross Canada.  
     section_id: intro
     background_style: style1
     actions:
@@ -31,46 +31,41 @@ sections:
         is_primary: false
     component: intro.html
     type: intro
-  - title: Spotlights Section
-    section_id: one
-    background_style: style2
-    component: spotlights.html
-    type: spotlights
   - title: What we do
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
-    section_id: two
+    section_id: one
     background_style: style3
     features_list:
-      - title: Lorem ipsum amet
+      - title: Peer Support Program
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         icon: fa-code
-      - title: Aliquam sed nullam
+      - title: Monthly Patient Meet-Ups
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         icon: fa-lock
-      - title: Sed erat ullam corper
+      - title: Patient Education Events
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         icon: fa-cog
-      - title: Veroeros quis lorem
+      - title: Patient Advocacy
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         icon: fa-desktop
-      - title: Urna quis bibendum
+      - title: Patient Registry and Mailing List
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         icon: fa-chain
-      - title: Aliquam urna dapibus
+      - title: Plasma Supply Issue Tracking 
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
@@ -82,6 +77,11 @@ sections:
         is_primary: false
     component: features.html
     type: features
+  - title: Spotlights Section
+    section_id: two
+    background_style: style2
+    component: spotlights.html
+    type: spotlights
   - title: Get in touch
     text: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis

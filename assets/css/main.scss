@@ -49,7 +49,9 @@ $palette: (
     accent2:			{{ palette.accent2 }},
     accent2-alt:		darken({{ palette.accent2 }}, 10),
     accent3:			{{ palette.accent3 }},
-    accent3-alt:		darken({{ palette.accent3 }}, 10)
+    accent3-alt:		darken({{ palette.accent3 }}, 10),
+	accent4:			{{ palette.accent4 }},
+	accent4-alt:		darken({{ palette.accent4 }}, 10)
 );
 @import 'libs/functions';
 @import 'libs/mixins';

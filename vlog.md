@@ -1,6 +1,6 @@
 ---
-title: Vlog
-content_img_path: images/vlog-banner.jpg
+title: CIPO Vlog
+content_img_path: images/microphone.jpg
 home_spotlights:
   enabled: true
   weight: 1
@@ -8,7 +8,7 @@ home_spotlights:
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
   home_img:
-    path: images/vlog-banner.jpg
+    path: images/microphone.jpg
     data_position: center center
     url: '#'
 layout: videos

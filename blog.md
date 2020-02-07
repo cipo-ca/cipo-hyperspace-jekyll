@@ -1,6 +1,6 @@
 ---
-title: News
-content_img_path: images/zebras.jpg
+title: PI Community News
+content_img_path: images/newspaper-guy.jpg
 home_spotlights:
   enabled: true
   weight: 1
@@ -8,7 +8,7 @@ home_spotlights:
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
   home_img:
-    path: images/zebras.jpg
+    path: images/newspaper-guy.jpg
     data_position: center center
     url: '#'
 layout: articles
