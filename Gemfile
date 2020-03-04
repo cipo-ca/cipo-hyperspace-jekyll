@@ -10,4 +10,5 @@ group :jekyll_plugins do
     gem "jekyll-paginate", "~> 1.1"
     gem "jekyll-feed", "~> 0.12"
     gem "jekyll-strapi", github: 'strapi/jekyll-strapi'
+    gem "jekyll-contentful-data-import"
 end
