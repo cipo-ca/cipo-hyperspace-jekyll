@@ -11,36 +11,21 @@ layout: body
             <span class="image fit"><img src="{{ page.content_img_path | relative_url }}" alt="" /></span>
             <h1>{{ page.title }}</h1>
             {{ content }}
-            <div class="videos">
-                {%- if strapi.collections.videos.size > 0 -%}
-                    {%- for video in strapi.collections.videos -%}
-                    <div class="video">
-                        <a class="video-link" href="{{ video.media_url | relative_url }}" data-lity>
+            <div class="videos grid-layout">
+                {%- if site.data.contentful.spaces.cipo-website.video.size > 0 -%}
+                    {%- assign sorted = site.data.contentful.spaces.cipo-website.video | sort: 'sys.updated_at' | reverse -%}
+                    {%- for video in sorted -%}
+                    <div class="grid-item prom-{{ video.prominence }}" >
+                        <a class="video-link" href="{{ video.url | relative_url }}" data-lity>
                             <img src="{{ video.screenshot.url }}"/>
+                            <div class="play-button"></div>
                         </a>
+
                     </div>
                     {%- endfor -%}
                 {%- endif -%}
 
             </div>
-<!--
-            <div class="videos">
-                {%- if strapi.collections.videos.size > 0 -%}
-                <ul class="video-list">
-                    {%- for video in strapi.collections.videos -%}
-                    <li>
-                        <h3>
-                            <a class="video-link" href="{{ video.media_url | relative_url }}" data-lity>
-                                {{ video.title }}
-                            </a>
-                        </h3>
-                        <p>{{ video.description | markdownify | strip_html | truncatewords: 10 }}</p>
-                    </li>
-                    {%- endfor -%}
-                </ul>
-                {%- endif -%}
-            </div>
--->
         </div>
     </section>
 </div>

@@ -1,0 +1,286 @@
+---
+video:
+- sys:
+    id: 1CPgUdQqbqJAymz6dgxtNf
+    created_at: !ruby/object:DateTime 2020-03-05 01:30:10.139000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-09 17:20:53.098000000 Z
+    content_type_id: video
+    revision: 11
+  title: Stories of patients with Primary Immunodeficiencies - Ewa Kapuścińska (CVID)
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Video produced by Polish Association for Patients with Primary Immunodeficiencies.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=zd6tNVMMg5c
+  screenshot:
+    sys:
+      id: 4PGCBLeHm3i3BWjzcIJAqR
+      created_at: !ruby/object:DateTime 2020-03-05 01:29:58.532000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:29:58.532000000 Z
+    title: Ewa
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/4PGCBLeHm3i3BWjzcIJAqR/3b3667a402e0f0909443d9fba5b9e64a/ewa.jpg"
+  prominence: higher
+- sys:
+    id: 5ziZkOpxw3smpo02W2rcvq
+    created_at: !ruby/object:DateTime 2020-03-05 01:28:01.401000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-06 01:12:45.226000000 Z
+    content_type_id: video
+    revision: 5
+  title: Primary Immunodeficiency - a documentary on PID (full)
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Documentary film about PID produced by Polish Association for Patients
+          with Primary Immunodeficiencies "Immunoprotect"
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=USK5X_6H97k
+  screenshot:
+    sys:
+      id: 3S0yxDaYTITcbOxmxc3EVk
+      created_at: !ruby/object:DateTime 2020-03-05 01:27:44.512000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:27:53.189000000 Z
+    title: PID Documentary Still
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/3S0yxDaYTITcbOxmxc3EVk/68acfff5b980fc403fc6014714eaca2d/piddocu.jpg"
+  prominence: higher
+- sys:
+    id: 6f8fpuu8o4oXcZDxlfGKAK
+    created_at: !ruby/object:DateTime 2020-03-05 01:26:11.183000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-06 01:11:56.081000000 Z
+    content_type_id: video
+    revision: 3
+  title: 'Primary Immunodeficiencies: B-Cell Disorders'
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'Primary Immunodeficiencies: B-Cell Disorders. A concept map by MVP
+          Medical Review'
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=bRGz-I2Mspo
+  screenshot:
+    sys:
+      id: 63BGQntruN1cEY1osyVxVw
+      created_at: !ruby/object:DateTime 2020-03-05 01:26:02.918000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:26:02.918000000 Z
+    title: primaryimmunodeficiencies
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/63BGQntruN1cEY1osyVxVw/40b2b33da692f89d6a9a170d3f16af61/primaryimmunodeficiencies.jpg"
+  prominence: normal
+- sys:
+    id: 38jRybCsCyjH9go2tjkTi4
+    created_at: !ruby/object:DateTime 2020-03-05 01:24:50.525000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-06 01:11:47.394000000 Z
+    content_type_id: video
+    revision: 3
+  title: Primary Immune Deficiency - Mayo Clinic
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Dr. Thomas Boyce, Pediatric Infectious Diseases Physician at Mayo Clinic
+          Children's Center talks about primary immune deficiency in children and
+          young adults.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=TJAR99H_3vE&t=1s
+  screenshot:
+    sys:
+      id: 3Iplas4aQ4XyEMVWtZNRxx
+      created_at: !ruby/object:DateTime 2020-03-05 01:24:38.003000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:24:38.003000000 Z
+    title: Dr Thomas Boyce
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/3Iplas4aQ4XyEMVWtZNRxx/4bd9e579e7ec5b26d8577158a11b0572/drthomasboyce.jpg"
+  prominence: normal
+- sys:
+    id: 3L0tGFYxK4b1NLeDIwCBmK
+    created_at: !ruby/object:DateTime 2020-03-05 01:18:39.251000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-06 01:11:34.083000000 Z
+    content_type_id: video
+    revision: 3
+  title: IDF Reel Stories, Jessica Buja
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: IDF Reel Stories is a video community designed by the Immune Deficiency
+          Foundation.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=rPbDVO1KC24
+  screenshot:
+    sys:
+      id: 3o57mVjdfLWpu7OZ7J2eOJ
+      created_at: !ruby/object:DateTime 2020-03-05 01:18:05.139000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:18:05.139000000 Z
+    title: Jessica
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/3o57mVjdfLWpu7OZ7J2eOJ/9c04378a966571b0d3bcc31d01677554/Jessica.jpg"
+  prominence: normal
+- sys:
+    id: 5yMSMzkJIRo4XvtgKAVEIS
+    created_at: !ruby/object:DateTime 2020-03-05 01:16:12.195000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-06 01:11:26.190000000 Z
+    content_type_id: video
+    revision: 3
+  title: How I Explain My Primary Immunodeficiency - SamMichael Long's Perspective
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: How do you explain your PI to others? SamMichael Long discusses his
+          journey through college and dating while living with CVID (Common Variable
+          Immune Deficiency).
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=drEYvhci1ME&t=13s
+  screenshot:
+    sys:
+      id: YAMbOV9nk5itTdLzUkXDF
+      created_at: !ruby/object:DateTime 2020-03-05 01:15:51.098000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:15:51.098000000 Z
+    title: How I explain my PI
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/YAMbOV9nk5itTdLzUkXDF/934a6937b061cf0d26f84728dfd5a4f6/howiexplainmypi.jpg"
+  prominence: normal
+- sys:
+    id: 4Wq9UVyqOAJKCBQpKGlFle
+    created_at: !ruby/object:DateTime 2020-03-05 01:12:13.391000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-06 01:11:19.150000000 Z
+    content_type_id: video
+    revision: 3
+  title: Combined Variable Immune Deficiency Syndromes (CVID)
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: At the Center for Rare Disease Therapy, every child diagnosed with
+          a rare disease receives an individualized treatment plan and family-centered
+          care.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=QihRv6r_LMc
+  screenshot:
+    sys:
+      id: 3CN3OOPiQ8U4wihOnaMIjQ
+      created_at: !ruby/object:DateTime 2020-03-05 01:11:28.608000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:11:28.608000000 Z
+    title: CVID
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/3CN3OOPiQ8U4wihOnaMIjQ/14672c8259b822e63ba9fb5473cfae90/CVID.jpg"
+  prominence: normal
+- sys:
+    id: 7qhocvNyTkYMz6DhSMoyzO
+    created_at: !ruby/object:DateTime 2020-03-05 01:08:07.238000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-06 01:11:11.290000000 Z
+    content_type_id: video
+    revision: 3
+  title: A primary immune deficiency patient’s advice for staying well on the road
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Shannon McDonnell's Promising Tips - Traveling during cold and flu
+          season.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=VokBuAK72zU
+  screenshot:
+    sys:
+      id: 5T9Po5NetZeDdmprr0kHrv
+      created_at: !ruby/object:DateTime 2020-03-05 01:08:01.777000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:08:01.777000000 Z
+    title: Shannon
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/5T9Po5NetZeDdmprr0kHrv/05892047249aef5dfed7587d60f1095a/shannon.png"
+  prominence: normal
+article:
+- sys:
+    id: 6yZhyp7M03cQ0l5MPAbtMY
+    created_at: !ruby/object:DateTime 2020-03-05 00:40:44.230000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-05 01:01:35.924000000 Z
+    content_type_id: article
+    revision: 2
+  title: 'Article #1'
+  content:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis
+          purus ac libero mollis, eget gravida ipsum facilisis. Aenean euismod elit
+          a pellentesque tempus. Maecenas commodo erat sit amet nisl accumsan, eu
+          molestie massa interdum. Integer eget dolor id ex faucibus sodales. \nLet's
+          put something here.\nNullam feugiat in odio quis posuere. Donec non iaculis
+          magna. In scelerisque, enim eget suscipit molestie, arcu lacus finibus sem,
+          vel laoreet massa urna quis ligula. Quisque mattis, nulla ac condimentum
+          accumsan, nisl dui vulputate leo, mattis ultricies enim nisl ac eros. \nAenean
+          ipsum nisi, ultricies quis aliquam sed, ultrices ut velit. \nFusce condimentum
+          hendrerit tincidunt. Nulla rhoncus nec elit ac rutrum. Nulla turpis justo,
+          dignissim at bibendum euismod, euismod sed justo. Curabitur in maximus odio,
+          at sagittis orci. Praesent auctor libero vitae faucibus lacinia. Integer
+          laoreet tellus nunc, eu suscipit velit tincidunt eget."
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  slug: article-1
+  author:
+    sys:
+      id: 5sWQPXsO55OLOV96IqsCpt
+      created_at: !ruby/object:DateTime 2020-03-05 01:01:20.492000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:01:20.492000000 Z
+      content_type_id: author
+      revision: 1
+    name: Whitney Goulstone
+    email: whitney.goulstone@cipo.ca
+author:
+- sys:
+    id: 5sWQPXsO55OLOV96IqsCpt
+    created_at: !ruby/object:DateTime 2020-03-05 01:01:20.492000000 Z
+    updated_at: !ruby/object:DateTime 2020-03-05 01:01:20.492000000 Z
+    content_type_id: author
+    revision: 1
+  name: Whitney Goulstone
+  email: whitney.goulstone@cipo.ca

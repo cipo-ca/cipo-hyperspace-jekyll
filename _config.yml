@@ -4,8 +4,8 @@ baseurl: /
 mediaServerPath: https://s3.us-west-1.wasabisys.com/cipo-media
 permalink: '/:title/'
 collections:
-  posts:
-    permalink: '/posts/:title/'
+  article:
+    permalink: '/article/:slug/'
 palette: cipo1
 palettes:
   blue:
@@ -83,49 +83,24 @@ exclude:
   - cipo-build.sh
   - stackbit-pull.js
 
-strapi:
-  # Your API endpoint (optional, default to http://localhost:1337)
-  # endpoint: http://localhost:1337
-  endpoint: http://cms.cipo.ca:1337
-  # Collections, key is used to access in the strapi.collections
-  # template variable
-  collections:
-    # Example for a "posts" collection
-    articles:
-      # Collection name (optional). Used to construct the url requested. Example: type `foo` would generate the following url `http://localhost:1337/foo`.
-      type: articles
-      # Permalink used to generate the output files (eg. /posts/:id).
-      permalink: /articles/:slug/
-      layout: article.html
-      # Generate output files or not (default: false)
-      output: true
-    videos:
-      # Collection name (optional). Used to construct the url requested. Example: type `foo` would generate the following url `http://localhost:1337/foo`.
-      type: videos
-      # Permalink used to generate the output files (eg. /posts/:id).
-      permalink: /videos/:id/
-      layout: video.html
-      # Generate output files or not (default: false)
-      output: true
-
 contentful:
   spaces:
-    - example:                              # Jekyll _data folder identifier - Required
-        space: ENV_CONTENTFUL_SPACE_ID                # Required
-        access_token: ENV_CONTENTFUL_ACCESS_TOKEN     # Required
-        environment: ENV_CONTENTFUL_ENVIRONMENT       # Optional
-        cda_query:                          # Optional
-          include: 2
-          limit: 100
-        all_entries: true                   # Optional - Defaults to false, only grabbing the amount set on CDA Query
-        all_entries_page_size: 1000         # Optional - Defaults to 1000, maximum amount of entries per CDA Request for all_entries
-        content_types:                      # Optional
-          cat: MyCoolMapper
-        client_options:                     # Optional
-          api_url: 'preview.contentful.com' # Defaults to 'api.contentful.com' which is Production
-          max_include_resolution_depth: 5   # Optional - Defaults to 20, maximum amount of levels to resolve includes
-        base_path: app_path                 # Optional - Defaults to Current directory
-        destination: destination_in_data    # Optional - Defaults to _data/contentful/spaces
-        individual_entry_files: true        # Optional - Defaults to false
-        rich_text_mappings:                 # Optional - Defaults to {}
-          embedded-entry-block: MyEntryRenderer
+    - cipo-website:
+        space: ENV_CONTENTFUL_SPACE_ID
+        access_token: ENV_CONTENTFUL_ACCESS_TOKEN
+        environment: ENV_CONTENTFUL_ENVIRONMENT
+        #cda_query:                          # Optional
+        #  include: 2
+        #  limit: 100
+        #all_entries: true                   # Optional - Defaults to false, only grabbing the amount set on CDA Query
+        #all_entries_page_size: 1000         # Optional - Defaults to 1000, maximum amount of entries per CDA Request for all_entries
+        #content_types:                      # Optional
+        #  cat: MyCoolMapper
+        #client_options:                     # Optional
+        #  api_url: 'preview.contentful.com' # Defaults to 'api.contentful.com' which is Production
+        #  max_include_resolution_depth: 5   # Optional - Defaults to 20, maximum amount of levels to resolve includes
+        #base_path: app_path                 # Optional - Defaults to Current directory
+        #destination: destination_in_data    # Optional - Defaults to _data/contentful/spaces
+        #individual_entry_files: true        # Optional - Defaults to false
+        #rich_text_mappings:                 # Optional - Defaults to {}
+        #  embedded-entry-block: MyEntryRenderer
