@@ -58,6 +58,11 @@
     }
 }
 
+.grid-item:hover .play-button {
+    background-color: rgba(0, 33, 66, 0.9);
+    opacity: 1;
+}
+
 .prom-higher {
     grid-column-end: span 2;
     grid-row-end: span 2;
