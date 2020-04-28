@@ -66,9 +66,10 @@
 		}
 
 		&.primary {
-			background-color: _palette(fg-bold);
-			color: _palette(bg) !important;
-
+			/* background-color: _palette(fg-bold); */
+			background-color: _palette(accent2);
+			/* color: _palette(bg) !important; */
+			color: white;
 			&:after {
 				display: none;
 			}

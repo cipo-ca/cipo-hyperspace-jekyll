@@ -2,10 +2,10 @@
 title: Home
 sidebar:
   entries:
-    - title: We Are CIPO
+    - title: Welcome
       url: '#intro'
       is_primary: true
-    - title: What we do
+    - title: Who we are
       url: '#one'
       is_primary: false
     - title: Subscribe
@@ -28,9 +28,14 @@ sections:
       - label: Learn more
         url: '#one'
         is_scrolly: true
-        is_primary: false
+        is_primary: true
     component: intro.html
     type: intro
+  - title: Campaign Section
+    section_id: campaign
+    background_style: style2
+    component: campaign.html
+    type: campaign
   - title: What we do
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis

@@ -1,6 +1,83 @@
 ---
 video:
 - sys:
+    id: 4J9paaWKuEDYZ3jwkQp2DS
+    created_at: !ruby/object:DateTime 2020-04-28 16:03:01.685000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-28 16:03:01.685000000 Z
+    content_type_id: video
+    revision: 1
+  title: Plasma
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Plasma is the protein-rich liquid in blood that helps other blood components
+          circulate throughout your body. It supports your immune system and helps
+          control excessive bleeding, which is why plasma donations are important
+          to help treat bleeding disorders, liver diseases and cancer.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=eJReJsYaAfI
+  screenshot:
+    sys:
+      id: 1wuHeBfjhq8pKPGToyZp6D
+      created_at: !ruby/object:DateTime 2020-04-28 16:02:23.727000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-28 16:02:23.727000000 Z
+    title: plasma-cbs-ss
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/1wuHeBfjhq8pKPGToyZp6D/5de44ee35b18a4ec1b9bdcf7517f1503/plasma-cbs-ss.jpg"
+  prominence: higher
+  tags:
+  - sys:
+      id: 4GBRe9Mg2nrgKOGbOurXFz
+      created_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Plasma
+    slug: plasma
+- sys:
+    id: 4c2uKX9XPsj3oBRSEVX88F
+    created_at: !ruby/object:DateTime 2020-04-28 00:45:27.355000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-28 00:45:27.355000000 Z
+    content_type_id: video
+    revision: 1
+  title: 'Plasma donation: what to expect?'
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: A video documenting the plasma donation process.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=G5XeBEJGAfk
+  screenshot:
+    sys:
+      id: 7sRHWtYif9x8NYqMeGsFtE
+      created_at: !ruby/object:DateTime 2020-04-28 00:44:46.628000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-28 00:54:31.344000000 Z
+    title: plasmadonation-ss
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/7sRHWtYif9x8NYqMeGsFtE/57eb6b8ae2dd70218107445b02a1f7f8/plasmadonation-ss.jpg"
+  prominence: higher
+  tags:
+  - sys:
+      id: 4GBRe9Mg2nrgKOGbOurXFz
+      created_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Plasma
+    slug: plasma
+- sys:
     id: 1CPgUdQqbqJAymz6dgxtNf
     created_at: !ruby/object:DateTime 2020-03-05 01:30:10.139000000 Z
     updated_at: !ruby/object:DateTime 2020-03-09 17:20:53.098000000 Z
@@ -234,6 +311,15 @@ video:
     description: 
     url: "//images.ctfassets.net/5s11nd0u2wnu/5T9Po5NetZeDdmprr0kHrv/05892047249aef5dfed7587d60f1095a/shannon.png"
   prominence: normal
+tag:
+- sys:
+    id: 4GBRe9Mg2nrgKOGbOurXFz
+    created_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+    content_type_id: tag
+    revision: 1
+  name: Plasma
+  slug: plasma
 article:
 - sys:
     id: 6yZhyp7M03cQ0l5MPAbtMY
