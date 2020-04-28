@@ -36,9 +36,11 @@
     padding: 0;
     margin: 0 auto;
     user-select: none;
-    background-color: rgba(0, 0, 0, 0.6);
+    /* background-color: rgba(0, 0, 0, 0.6); */
+    background-color: rgba(0, 33, 66, 0.9);
     opacity: 0.6;
     transition: 0.5s;
+    pointer-events: none;
 
     &:after {
         //play button
@@ -51,11 +53,14 @@
         border-color: transparent transparent transparent #fff;
         border-style: solid;
         border-width: 7px 0 7px 12px;
+        pointer-events: none;
     }
+  /*
     &:hover {
         background-color: rgba(0, 33, 66, 0.9);
         opacity: 1;
     }
+*/
 }
 
 .prom-higher .play-button, .prom-highest .play-button {
@@ -86,6 +91,8 @@
         padding: 0.5em 3em 0.5em 0.5em;
         background-color: _palette(accent3) ;
         opacity: 0.75;
+        display: block;
+        border-radius: 5px;
     }
 
     p { font-size: 12px;
@@ -93,7 +100,9 @@
         background-color: _palette(accent3);
         opacity: 0.75;
         padding: 0.5em;
-        visibility: hidden
+        visibility: hidden;
+        display: block;
+        border-radius: 5px;
     }
 
     p:empty { display: none }
