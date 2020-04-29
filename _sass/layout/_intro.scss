@@ -13,14 +13,8 @@
     margin: 0 0 1em 0;
   }
   p {
-    /* font-size: 1.25em; */
-    font-size: 2em;
-
+    font-size: 1.25em;
     color: white;
-    background-color: rgba(160, 160, 160, 0.6);
-    text-transform: uppercase;
-    padding: 0.5em;
-    font-family: "kulturista-web", serif;
     @include breakpoint("<=medium") {
       br {
         display: none;
