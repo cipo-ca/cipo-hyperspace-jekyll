@@ -21,7 +21,7 @@ sections:
       data_position: center center
     subtitle: |-
       We are the Canadian Immunodeficiencies Patient Organization.  
-      A Community of PI patients accross Canada.  
+      A Community of PI patients across Canada.  
     section_id: intro
     background_style: style1
     actions:
