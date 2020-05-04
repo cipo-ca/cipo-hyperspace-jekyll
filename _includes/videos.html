@@ -1,11 +1,3 @@
-<!-- videos -->
-<div id="wrapper">
-  <!-- Main -->
-  <section id="main" class="wrapper">
-    <div class="inner">
-      <!--<span class="image fit"><img src="{{ page.content_img_path | relative_url }}" alt="" /></span>-->
-      <!--<h1 class="major">{{ page.title }}</h1>-->
-      <!--{{ content }}-->
       <div class="videos grid-layout">
         {%- if site.data.contentful.spaces.cipo-website.video.size > 0 -%} {%-
         assign sorted = site.data.contentful.spaces.cipo-website.video | sort:
@@ -22,6 +14,3 @@
         </div>
         {%- endfor -%} {%- endif -%}
       </div>
-    </div>
-  </section>
-</div>

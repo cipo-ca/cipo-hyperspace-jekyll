@@ -31,29 +31,19 @@ palettes:
       accent4: '#b74e91'
   cipo1:
     sass:
-      bg: '#000000' #black
-      accent1: '#06a77d' #green
-      accent1: '#772400' #brown
-      accent1: '#f74b00' #orange
-      accent1: '#442528' #burgundy
-      accent1: '#006b77' #lighter blue
-      accent1: '#005377' #dark blue
+      bg: '#0d0d0d' #black
+      highlight: '#f74b00'
       accent1: '#254441' #dark teal
-      accent2: '#254441' #dark teal
-      accent2: '#006b77' #lighter blue
-      accent2: '#D5C67A' #beige
-      accent2: '#06a77d' #green
-      accent2: '#772400' #brown
-      accent2: '#442528' #burgundy
-      accent2: '#005377' #dark blue
-      accent2: '#d84200' #orange
-      accent3: '#06a77d' #green
-      accent3: '#254441' #dark teal
-      accent3: '#772400' #brown
+      accent1: '#006b77' #lighter blue
+      accent1: '#00171E'
+      accent1: '#0d0d0d'
+      accent2: '#f74b00' #orange
+      accent2: '#00171E'
       accent3: '#005377' #dark blue
-      accent3: '#f74b00' #orange
       accent3: '#006b77' #lighter blue
-      accent4: '#f74b00' #orange
+      accent3: '#00171E'
+      accent3: '#254441' #dark teal
+      accent4: '#0d0d0d' #dark grey
 sass:
   indentWidth: 4
   style: nested

@@ -12,7 +12,7 @@
 		background-color: transparent;
 		border: solid 1px !important;
 		border-color: _palette(border) !important;
-		border-radius: 3em;
+		border-radius: 1em;
 		color: _palette(fg-bold) !important;
 		cursor: pointer;
 		display: inline-block;
@@ -67,7 +67,8 @@
 
 		&.primary {
 			/* background-color: _palette(fg-bold); */
-			background-color: _palette(accent2);
+			background-image: linear-gradient(to bottom right, _palette(highlight), _palette(highlight-alt));
+			//background-color: _palette(accent2-alt);
 			/* color: _palette(bg) !important; */
 			color: white;
 			&:after {

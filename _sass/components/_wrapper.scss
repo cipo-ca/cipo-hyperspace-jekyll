@@ -9,7 +9,8 @@
     width: _size(inner-width);
 
     @include breakpoint("<=xlarge") {
-      @include padding(4em, 4em);
+       @include padding(4em, 4em);
+      /* padding: 3em 4em; */
     }
 
     @include breakpoint("<=large") {
@@ -30,7 +31,8 @@
   }
 
   &.style1-alt {
-    background-color: _palette(accent1-alt);
+    background-image: linear-gradient(to top left, _palette(accent1), _palette(accent2));
+    //background_image: url('images/intro.svg')
   }
 
   &.style2 {
@@ -38,7 +40,11 @@
   }
 
   &.style2-alt {
-    background-color: _palette(accent2-alt);
+    background-image: linear-gradient(to bottom, _palette(accent2), _palette(accent3));
+    //background-image: url('images/liquid-cheese.svg');
+    //background-color: _palette(accent2);
+    //background-repeat: no-repeat;
+    //background-size: cover;
   }
 
   &.style3 {
@@ -46,7 +52,12 @@
   }
 
   &.style3-alt {
-    background-color: _palette(accent3-alt);
+    background-image: linear-gradient(to bottom, _palette(accent3), _palette(accent4));
+    //background-color: _palette(accent3);
+  }
+
+  &.style4 {
+    background-color: _palette(accent4);
   }
 
   &.fullscreen {
