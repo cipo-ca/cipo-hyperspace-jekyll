@@ -1,0 +1,22 @@
+#map .inner { padding-top: 0 }
+
+.map {
+
+  .inner { padding-top: 0}
+
+  max-width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  padding: 0 !important;
+  .jvectormap-zoomin,
+  .jvectormap-zoomout {
+    visibility: hidden;
+  }
+  pointer-events: fill;
+
+  @include breakpoint("<=small") {
+    pointer-events: none;
+  }
+
+  //background-color: #929796;
+}

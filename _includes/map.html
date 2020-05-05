@@ -1,0 +1,33 @@
+
+<section
+  id="{{ include.section.section_id }}"
+  class="wrapper {{ include.section.background_style }} fade-up"
+>
+  <div class="inner" style="overflow: hidden">
+  {%- if include.section.title.size > 0 -%}
+  <h2>{{ include.section.title }}</h2>
+  {% endif %}
+  {%- if include.section.subtitle.size > 0 -%}
+  {{ include.section.subtitle | markdownify }}
+  {% endif %}
+  <div class="map" id="canada-map" style="overflow: auto"></div>
+    <script>
+      var waitForJQuery = setInterval(function () {
+        if (typeof $ != "undefined") {
+          $(function () {
+            $("#canada-map").vectorMap({ map: "ca_lcc", backgroundColor: "none", zoomMax: 1,
+              regionLabelStyle: {
+                initial: {
+                  fill: '#B90E32'
+                },
+                hover: {
+                  fill: 'black'
+                }
+              } });
+          });
+          clearInterval(waitForJQuery);
+        }
+      }, 10);
+    </script>
+  </div>
+</section>

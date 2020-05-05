@@ -48,6 +48,14 @@ sections:
         url: '#what-we-do'
         is_scrolly: true
         is_primary: true
+  - title: CIPO Chapters
+    subtitle: >-
+         Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+         aliquam turpis mauris, sed ultricies erat dapibus.
+    section_id: map
+    background_style: style3-alt
+    component: map.html
+    type: map
   - title: What we do
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
