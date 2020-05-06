@@ -18,9 +18,14 @@ svg {
     background: #292929;
     color: white;
     font-family: sans-serif, Verdana;
-    font-size: smaller;
-    padding: 3px;
+    font-size: medium;
+    font-weight: bold;
+    padding: 1em;
 }
+
+.jvectormap-tip > * { font-weight: normal; font-size: small }
+
+.jvectormap-tip > ul > li  { max-width: 40em }
 
 .jvectormap-zoomin, .jvectormap-zoomout, .jvectormap-goback {
     position: absolute;

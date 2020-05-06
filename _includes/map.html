@@ -1,33 +1,87 @@
-
 <section
   id="{{ include.section.section_id }}"
   class="wrapper {{ include.section.background_style }} fade-up"
 >
-  <div class="inner" style="overflow: hidden">
-  {%- if include.section.title.size > 0 -%}
-  <h2>{{ include.section.title }}</h2>
-  {% endif %}
-  {%- if include.section.subtitle.size > 0 -%}
-  {{ include.section.subtitle | markdownify }}
-  {% endif %}
-  <div class="map" id="canada-map" style="overflow: auto"></div>
+  <div class="inner" style="overflow: hidden;">
+    {%- if include.section.title.size > 0 -%}
+    <h2>{{ include.section.title }}</h2>
+    {% endif %} {%- if include.section.subtitle.size > 0 -%} {{
+    include.section.subtitle | markdownify }} {% endif %}
+    <div class="map" id="canada-map" style="overflow: auto;"></div>
     <script>
-      var waitForJQuery = setInterval(function () {
+      const colors = {
+        "CA-SK": "",
+        "CA-BC": "",
+        "CA-NT": "",
+        "CA-NU": "#FEFF61",
+        "CA-ON": "",
+        "CA-MB": "",
+        "CA-NS": "#FF8B8F",
+        "CA-QC": "",
+        "CA-YT": "#FAC600",
+        "CA-NB": "#FF8709",
+        "CA-NL": "",
+        "CA-AB": "",
+      };
+
+      const provinceData = {
+        "CA-BC":
+          "<ul><li>Newborn Screening “BC currently does not include SCID in their newborn screening. CIPO is undertaking a review and advocating for it to be included, help us!”</li>" +
+          "<li>Paid Plasma: “With the passing of the Voluntary Blood Donations Act in 2018, the NDP banned compensation for plasma”</li>" +
+          "<li>Monthly Meet Ups: Vancouver, Vernon, Surrey</li></ul>",
+        "CA-AB":
+          "<ul><li>Newborn Screening: “Alberta included SCID in their Newborn Screening in May 2019”</li>" +
+          "<li>Paid Plasma: “Alberta NDP passed a Voluntary Blood Donations Act in 2018, however, the new government may be open to reversing the bill. CIPO is advocating for compensation of plasma donations in Alberta”</li>" +
+          "<li>Monthly meet ups: Calgary, Edmonton, Medicine Hat</li></ul>",
+      };
+
+      const waitForJQuery = setInterval(function () {
         if (typeof $ != "undefined") {
           $(function () {
-            $("#canada-map").vectorMap({ map: "ca_lcc", backgroundColor: "none", zoomMax: 1,
+            $("#canada-map").vectorMap({
+              map: "ca_lcc",
+              onRegionTipShow: function (e, el, code) {
+                el.html(el.html() + provinceData[code]);
+              },
+              backgroundColor: "none",
+              zoomMax: 1,
               regionLabelStyle: {
                 initial: {
-                  fill: '#B90E32'
+                  fill: "#B90E32",
                 },
                 hover: {
-                  fill: 'black'
-                }
-              } });
+                  fill: "black",
+                },
+              },
+            });
           });
+
           clearInterval(waitForJQuery);
         }
       }, 10);
     </script>
+    <table class="chapter-info">
+      <tr>
+        <th>Chapter Director</th>
+        <td></td>
+      </tr>
+      <tr>
+        <th>Steering Committee</th>
+        <td></td>
+      </tr>
+      <tr>
+        <th>Newborn Screening</th>
+        <td></td>
+      </tr>
+      <tr>
+        <th>Paid Plasma</th>
+        <td></td>
+      </tr>
+      <tr>
+        <th>Monthly Meetups</th>
+        <td></td>
+      </tr>
+    </table>
   </div>
+
 </section>

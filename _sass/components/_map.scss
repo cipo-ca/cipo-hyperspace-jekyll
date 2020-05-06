@@ -6,7 +6,8 @@
 
   max-width: 500px;
   height: 500px;
-  margin: 0 auto;
+  /* margin: 0 auto; */
+  margin: 0;
   padding: 0 !important;
   .jvectormap-zoomin,
   .jvectormap-zoomout {
@@ -19,4 +20,8 @@
   }
 
   //background-color: #929796;
+}
+
+.chapter-info {
+
 }
