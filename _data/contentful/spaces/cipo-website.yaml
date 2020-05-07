@@ -1,4 +1,113 @@
 ---
+chapter:
+- sys:
+    id: 3Obl9JXuoM6bqgOjQ7g0rt
+    created_at: !ruby/object:DateTime 2020-05-07 19:17:56.593000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-07 19:17:56.593000000 Z
+    content_type_id: chapter
+    revision: 1
+  name: Nova Scotia
+  province: CA-NS
+  steering_committee: false
+  paid_plasma: Nova Scotia currently has not taken a stance on paid plasma
+  newborn_screening: PEI, NB and NS included SCID in their Newborn Screening Program
+    in 2018
+  monthly_meetups: 'No'
+- sys:
+    id: 2k8n4Sjj8K6GWoBaPo6WR7
+    created_at: !ruby/object:DateTime 2020-05-07 19:12:41.420000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-07 19:12:41.420000000 Z
+    content_type_id: chapter
+    revision: 1
+  name: New Brunswick
+  province: CA-NB
+  steering_committee: false
+  paid_plasma: New Brunswick currently allows compensation for plasma donations
+  newborn_screening: PEI, NB and NS included SCID in their Newborn Screening Program
+    in 2018
+  monthly_meetups: 'No'
+- sys:
+    id: 3Jtf0KqgNJdWTgf7rE7t7y
+    created_at: !ruby/object:DateTime 2020-05-07 19:11:31.639000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-07 19:11:31.639000000 Z
+    content_type_id: chapter
+    revision: 1
+  name: Prince Edward Island
+  province: CA-PE
+  steering_committee: false
+  paid_plasma: No current position
+  newborn_screening: PEI, NB and NS included SCID in their Newborn Screening Program
+    in 2018
+  monthly_meetups: 'No'
+- sys:
+    id: 5nOyY4RlcWlRkHwsMzH8qL
+    created_at: !ruby/object:DateTime 2020-05-07 18:56:39.617000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-07 18:56:39.617000000 Z
+    content_type_id: chapter
+    revision: 1
+  name: Quebec
+  province: CA-QC
+  director: Martine Allard
+  steering_committee: true
+  paid_plasma: 'No'
+  newborn_screening: 'No'
+- sys:
+    id: 4c74ZQN8FVujqSyByLXQd5
+    created_at: !ruby/object:DateTime 2020-05-07 18:53:58.440000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-07 18:53:58.440000000 Z
+    content_type_id: chapter
+    revision: 1
+  name: Ontario
+  province: CA-ON
+  director: Alex Blake
+  steering_committee: true
+  paid_plasma: Ontario banned the compensation of plasma donations in 2017
+  newborn_screening: Ontario became the first province to include SCID in their Newborn
+    Screening program in 2014
+  monthly_meetups: Ottawa, Toronto
+- sys:
+    id: 2ftFQT5OuIva9kBhyGfyMQ
+    created_at: !ruby/object:DateTime 2020-05-07 18:46:28.820000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-07 18:52:39.549000000 Z
+    content_type_id: chapter
+    revision: 2
+  name: Alberta
+  province: CA-AB
+  director: Gary Evans
+  steering_committee: true
+  paid_plasma: Alberta NDP passed a Voluntary Blood Donations Act in 2018, however,
+    the new government may be open to reversing the bill. CIPO is advocating for compensation
+    of plasma donations in Alberta
+  newborn_screening: Alberta included SCID in their Newborn Screening in May 2019
+  monthly_meetups: Calgary, Edmonton, Medicine Hat
+- sys:
+    id: 7ykY8WFubUf1PBWDr2IW94
+    created_at: !ruby/object:DateTime 2020-05-07 18:49:13.020000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-07 18:51:50.922000000 Z
+    content_type_id: chapter
+    revision: 2
+  name: Manitoba
+  province: CA-MB
+  steering_committee: false
+  paid_plasma: Manitoba has a 30 year history of compensated plasma donations
+  newborn_screening: Manitoba is the latest province to include SCID in their Newborn
+    Screening program starting May 2020
+  monthly_meetups: Winnipeg
+- sys:
+    id: 6MYAEPGvFQ6yVPuQaPyvmx
+    created_at: !ruby/object:DateTime 2020-05-07 18:43:59.303000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-07 18:51:33.364000000 Z
+    content_type_id: chapter
+    revision: 3
+  name: British Columbia
+  province: CA-BC
+  director: TBH
+  steering_committee: true
+  paid_plasma: With the passing of the Voluntary Blood Donations Act in 2018, the
+    NDP banned compensation for plasma
+  newborn_screening: BC currently does not include SCID in their newborn screening.
+    CIPO is undertaking a review and advocating for it to be included. Help us!
+  monthly_meetups: Vancouver, Vernon, Surrey
 video:
 - sys:
     id: 1CPgUdQqbqJAymz6dgxtNf
