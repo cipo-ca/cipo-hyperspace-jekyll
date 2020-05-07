@@ -1,30 +1,45 @@
-#map .inner { padding-top: 0 }
-
-.map {
-
-  .inner { padding-top: 0}
-
-  //max-width: 500px;
-  width:50%;
-  height: 500px;
-  /* margin: 0 auto; */
-  margin: 0;
-  padding: 0 !important;
-  .jvectormap-zoomin,
-  .jvectormap-zoomout {
-    visibility: hidden;
-  }
-  pointer-events: fill;
-
+#map {
   @include breakpoint("<=small") {
-    pointer-events: none;
+    display: none;
+  }
+  .inner {
+    padding-top: 0
   }
 
-  //background-color: #929796;
-  float: left;
-}
+  .canada-map {
 
-.chapter-info {
-  display: none;
-  width: 50%;
+    .inner { padding-top: 0}
+
+    //max-width: 500px;
+    width:50%;
+    height: 500px;
+    /* margin: 0 auto; */
+    margin: 0;
+    padding: 0 !important;
+    .jvectormap-zoomin,
+    .jvectormap-zoomout {
+      visibility: hidden;
+    }
+    pointer-events: fill;
+
+    @include breakpoint("<=small") {
+      pointer-events: none;
+    }
+
+    //background-color: #929796;
+    float: left;
+  }
+
+  .chapter-info {
+    display: none;
+    width: 50%;
+    font-size: small;
+    border-collapse: collapse;
+    th {
+      width: 100px;
+      white-space: nowrap;
+    }
+    th,td { height: 2em; border: 1px solid white }
+    td:empty { content: "pants"}
+  }
 }

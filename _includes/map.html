@@ -8,29 +8,33 @@
     <h2>{{ include.section.title }}</h2>
     {% endif %} {%- if include.section.subtitle.size > 0 -%} {{
     include.section.subtitle | markdownify }} {% endif %}
-    <div class="map" id="canada-map" style="overflow: auto;"></div>
+    <div class="canada-map" id="canada-map" style="overflow: auto;"></div>
     {%- if site.data.contentful.spaces.cipo-website.chapter.size > 0 -%}
     {%- for chapter in site.data.contentful.spaces.cipo-website.chapter -%}
     <table class="chapter-info" id="chapter-info-{{ chapter.province }}">
       <tr>
+        <th>Chapter</th>
+        <td>{{ chapter.name }}</td>
+      </tr>
+      <tr>
         <th>Chapter Director</th>
-        <td></td>
+        <td>{{ chapter.director | default: '&#160;' }}</td>
       </tr>
       <tr>
         <th>Steering Committee</th>
-        <td></td>
+        <td>{{ chapter.steering_committee | default: '&#160;'}}</td>
       </tr>
       <tr>
         <th>Newborn Screening</th>
-        <td></td>
+        <td>{{ chapter.newborn_screening | default: '&#160;'}}</td>
       </tr>
       <tr>
         <th>Paid Plasma</th>
-        <td></td>
+        <td>{{ chapter.paid_plasma | default: '&#160;'}}</td>
       </tr>
       <tr>
         <th>Monthly Meetups</th>
-        <td></td>
+        <td>{{ chapter.monthly_meetups | default: '&#160;'}}</td>
       </tr>
     </table>
     {%- endfor -%} {%- endif -%}
