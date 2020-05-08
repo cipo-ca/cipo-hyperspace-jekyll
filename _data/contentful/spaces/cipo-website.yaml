@@ -1,6 +1,19 @@
 ---
 chapter:
 - sys:
+    id: 69ODpiJ4NAr5XNbFzU8XKU
+    created_at: !ruby/object:DateTime 2020-05-08 16:48:38.214000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-08 16:48:38.214000000 Z
+    content_type_id: chapter
+    revision: 1
+  name: Saskatchewan
+  province: CA-SK
+  director: "[Need text here]"
+  paid_plasma: "[Need text here]"
+  newborn_screening: "[Need text here]"
+  monthly_meetups: "[Need text here]"
+  steering_committee: "[Need text here]"
+- sys:
     id: 2ftFQT5OuIva9kBhyGfyMQ
     created_at: !ruby/object:DateTime 2020-05-07 18:46:28.820000000 Z
     updated_at: !ruby/object:DateTime 2020-05-07 22:48:36.311000000 Z

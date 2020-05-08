@@ -1,0 +1,16 @@
+<div class="media-items">
+  {%- if site.data.contentful.spaces.cipo-website.video.size > 0 -%} {%- assign
+  sorted = site.data.contentful.spaces.cipo-website.video | sort:
+  'sys.updated_at' | reverse -%} {%- for video in sorted -%}
+  <div class="media-item prom-{{ video.prominence }}">
+    <a class="video-link" href="{{ video.url | relative_url }}" data-lity>
+      <img src="{{ video.screenshot.url }}" />
+      <div class="media-item-description">
+        <h2>{{ video.title }}</h2>
+        <p>{{ video.description | rich_text }}</p>
+      </div>
+      <div class="play-button"></div>
+    </a>
+  </div>
+  {%- endfor -%} {%- endif -%}
+</div>

@@ -1,0 +1,13 @@
+<div class="cta-items">
+  {% for cta in include.section.cta_list %}
+  <a class="cta-link" href="{{ cta.url | relative_url }}">
+    <div class="cta-item">
+      <i class="cta-icon fa fa-6x {{ cta.icon }}"></i>
+      <div class="cta-item-description">
+        <h2>{{ cta.title }}</h2>
+        <p>{{ cta.description | rich_text }}</p>
+      </div>
+  </div>
+  </a>
+  {%- endfor -%}
+</div>

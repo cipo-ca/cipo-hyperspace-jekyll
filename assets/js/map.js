@@ -14,6 +14,7 @@ const colors = {
   "CA-PE": "#DB214C",
 };
 
+const disabled = ["CA-NT", "CA-NU", "CA-NL", "CA-YT"];
 const waitForJQuery = setInterval(function () {
   if (typeof $ != "undefined") {
     $(function () {
@@ -50,9 +51,18 @@ const waitForJQuery = setInterval(function () {
             fill: "black",
           },
         },
+        onRegionOver: (event, code, region) => {
+          if (disabled.includes(code)) {
+            event.preventDefault();
+          }
+        },
         onRegionClick: (event, code) => {
-          $(".chapter-info").hide();
-          $("#chapter-info-" + code).show();
+          if (disabled.includes(code)) {
+            event.preventDefault();
+          } else {
+            $(".chapter-info").hide();
+            $("#chapter-info-" + code).show();
+          }
         },
         onRegionSelected: (event, code, isSelected, selectedRegions) => {},
       });

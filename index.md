@@ -41,7 +41,7 @@ sections:
       quis lorem.
     section_id: this-week
     background_style: style2-alt
-    component: campaign.html
+    component: this-week.html
     type: campaign
     actions:
       - label: More
@@ -107,45 +107,37 @@ sections:
     background_style: style3-alt
     component: spotlights.html
     type: spotlights
-  - title: Get involved
-    text: >-
+  - title: Get Involved
+    subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
     section_id: get-involved
-    background_style: style4
-    contact_list:
-      - title: Address
-        text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
-      - title: Email
-        text: user@Hyperspace.tld
-        url: '#'
-      - title: Phone
-        text: (000) 000-0000
-    social:
-      title: Social
-      social_icons:
-        - title: Twitter
-          icon: fa-twitter
-          url: '#'
-        - title: Facebook
-          icon: fa-facebook
-          url: '#'
-        - title: GitHub
-          icon: fa-github
-          url: '#'
-        - title: Instagram
-          icon: fa-instagram
-          url: '#'
-        - title: LinkedIn
-          icon: fa-linkedin
-          url: '#'
-    component: contact.html
-    type: contact
+    background_style: style3
+    cta_list:
+      - title: Join CIPO
+        text: >-
+          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+          aliquam turpis mauris, sed ultricies erat dapibus.
+        icon: fa-users
+      - title: Volunteer with CIPO
+        text: >-
+          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+          aliquam turpis mauris, sed ultricies erat dapibus.
+        icon: fa-hands-helping
+      - title: Find an event
+        text: >-
+          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+          aliquam turpis mauris, sed ultricies erat dapibus.
+        icon: fa-calendar-check
+      - title: Donate
+        text: >-
+          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+          aliquam turpis mauris, sed ultricies erat dapibus.
+        icon: fa-donate
+    component: calls-to-action.html
+    type: features
 menus:
   main:
     title: Home

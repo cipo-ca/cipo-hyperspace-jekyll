@@ -60,7 +60,7 @@ accent4-alt:		adjust-hue({{ palette.accent4 }}, 20%),
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
-@import 'font-awesome.min.css';
+@import 'all.css';
 
 /*
 	Hyperspace by Pixelarity
@@ -105,8 +105,9 @@ accent4-alt:		adjust-hue({{ palette.accent4 }}, 20%),
 	@import 'components/table';
 	@import 'components/wrapper';
 	@import 'components/banner';
-	@import 'components/videos';
+	@import 'components/media-items';
 	@import 'components/map';
+	@import 'components/cta-items';
 
 // Layout.
 

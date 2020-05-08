@@ -1,16 +1,13 @@
-.videos {
-  margin-bottom: 1.5em;
-}
-
-.grid-layout {
+.media-items {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
   grid-gap: 10px;
   grid-auto-rows: minmax(225px, auto);
   grid-auto-flow: dense;
+  margin-bottom: 1.5em;
 }
 
-.grid-item {
+.media-item {
   position: relative;
   padding: 1rem;
   font-weight: bold;
@@ -80,7 +77,7 @@
   }
 }
 
-.video-description {
+.media-item-description {
   position: absolute;
   top: 0;
   left: 0;

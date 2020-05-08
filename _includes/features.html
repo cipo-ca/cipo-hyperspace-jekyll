@@ -6,7 +6,7 @@
         <div class="features">
             {% for feature in include.section.features_list %}
                 <section>
-                    <span class="icon major {{ feature.icon }}"></span>
+                    <span class="fa {{ feature.icon }}"></span>
                     <h3>{{ feature.title }}</h3>
                     {{ feature.text | markdownify }}
                 </section>
