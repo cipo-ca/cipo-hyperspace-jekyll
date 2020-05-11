@@ -10,12 +10,13 @@
 
 .cta-link {
   display: block;
+  border: 0;
   .cta-icon {
-    color: #333333;
+    color: _palette(highlight)
   }
   &:hover {
     .cta-icon {
-      color: #999999;
+      color: _palette(highlight-alt);
     }
     .cta-item-description { opacity: 70% }
   }

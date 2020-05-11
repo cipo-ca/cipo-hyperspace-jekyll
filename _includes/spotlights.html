@@ -9,7 +9,7 @@
             {% endif %}
             <div class="content">
                 <div class="inner">
-                    <h2>{{ spotlight_page.title }}</h2>
+                    <h3>{{ spotlight_page.title }}</h3>
                     {{ spotlight_page.home_spotlights.excerpt | markdownify }}
                     <ul class="actions">
                         <li><a href="{{ spotlight_page.url | relative_url }}" class="button">Learn more</a></li>

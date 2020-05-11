@@ -5,8 +5,8 @@
         {{ include.section.subtitle | markdownify }}
         <div class="features">
             {% for feature in include.section.features_list %}
-                <section>
-                    <span class="fa {{ feature.icon }}"></span>
+                <section style="background-image: url('{{ feature.bg }}'); background-size: cover">
+                    <!--<span class="fa {{ feature.icon }}"></span>-->
                     <h3>{{ feature.title }}</h3>
                     {{ feature.text | markdownify }}
                 </section>

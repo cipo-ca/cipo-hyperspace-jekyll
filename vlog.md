@@ -11,7 +11,7 @@ home_spotlights:
     path: images/microphone.jpg
     data_position: center center
     url: '#'
-layout: videos
+layout: media-items
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
