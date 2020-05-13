@@ -33,7 +33,7 @@ sections:
         is_primary: true
     component: intro.html
     type: intro
-  - title:
+  - title: This Week in PI
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
@@ -48,14 +48,6 @@ sections:
         url: '#what-we-do'
         is_scrolly: true
         is_primary: true
-  - title: CIPO Chapters
-    subtitle: >-
-         Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-         aliquam turpis mauris, sed ultricies erat dapibus.
-    section_id: map
-    background_style: style3-alt
-    component: map.html
-    type: map
   - title: What we do
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
@@ -70,7 +62,7 @@ sections:
           Are you newly diagnosed or in need of a little extra support? 
           CIPO has you covered. Our Peer Support Program will pair you with a specially trained coach, 
           to help guide you through your patient journey.
-        icon: fa-code
+        icon: 
       - title: Financial Assistance Program
         text: >-
           Are you overwhelmed because of your PI? You are not alone. 
@@ -81,7 +73,7 @@ sections:
         text: >-
           These fun, informal get togethers help you connect and share with others who understand exactly what you are experiencing. 
           Come on out to one in your area! Can’t find one near you? We’ll give you everything you need to get you started.
-        icon: fa-cog
+        icon: fa-users 
       - title: Education Sessions
         text: >-
           CIPO will always do our best to keep you up-to-date and informed. 
@@ -109,6 +101,14 @@ sections:
     background_style: style3-alt
     component: spotlights.html
     type: spotlights
+  - title: CIPO Chapters
+    subtitle: >-
+         Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+         aliquam turpis mauris, sed ultricies erat dapibus.
+    section_id: map
+    background_style: style3-alt
+    component: map.html
+    type: map
   - title: Get Involved
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis

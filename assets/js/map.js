@@ -67,8 +67,9 @@ const waitForJQuery = setInterval(function () {
         onRegionSelected: (event, code, isSelected, selectedRegions) => {},
       });
       map.series.regions[0].setValues(colors);
+      map.setSelectedRegions('CA-BC')
+      $("#chapter-info-CA-BC").show();
     });
-
     clearInterval(waitForJQuery);
   }
 }, 10);
