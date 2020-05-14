@@ -6,6 +6,7 @@
         <div class="features">
             {% for feature in include.section.features_list %}
                 <section style="background-image: url('{{ feature.bg }}'); background-size: cover">
+                    <a href="{{ feature.link }}"><span></span></a>
                         <h3>{{ feature.title }}</h3>
                        {{ feature.text | markdownify }}
                 </section>

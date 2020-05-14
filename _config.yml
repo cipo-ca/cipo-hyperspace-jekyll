@@ -50,7 +50,6 @@ sass:
   precision: 10
 plugins:
   - jekyll-menus
-  - jekyll-strapi
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -87,3 +86,10 @@ contentful:
         #individual_entry_files: true        # Optional - Defaults to false
         #rich_text_mappings:                 # Optional - Defaults to {}
         #  embedded-entry-block: MyEntryRenderer
+
+page_gen:
+  - index_files: false
+    data: 'contentful.spaces.cipo-website.page'
+    template: page
+    name: slug
+    dir: ..

@@ -1,4 +1,1113 @@
 ---
+page:
+- sys:
+    id: 4VNzL2oWdIofjxn57aAbrU
+    created_at: !ruby/object:DateTime 2020-05-13 17:04:50.048000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 00:14:44.923000000 Z
+    content_type_id: page
+    revision: 2
+  title: Education
+  body:
+    nodeType: document
+    data: {}
+    content:
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: 'PLEASE NOTE: DUE TO COVID-19 ALL IN PERSON EVENTS ARE POSTPONED'
+        marks:
+        - type: bold
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Webinar Sessions
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: CIPO is pleased to offer online, virtual education sessions. These
+          sessions will assist to keep our members up-to-date with the latest information
+          in PI. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Listen to our latest webinar! “Ask the Experts & COVID-19 & PI” [LINK
+          HERE]
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Enews
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Have you signed up yet? Join CIPO and start getting all the latest
+          updates and CIPO’s quarterly enews straight to your inbox. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Updates
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: CIPO will send out updates when there is something you need to know.
+          We send out regular updates during COVID-19, (the SCIG Shortage of 2019,
+          the IG Transition in 2018, etc). So please check your emails to find out
+          how what is going on affects you.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: "\nSigned up, but not getting it? Please ensure that "
+        marks: []
+        data: {}
+      - nodeType: hyperlink
+        content:
+        - nodeType: text
+          value: info@cipo.ca
+          marks:
+          - type: underline
+          data: {}
+        data:
+          uri: mailto:info@cipo.ca
+      - nodeType: text
+        value: " is allowed in your mail, and check your junk/spam filter!"
+        marks: []
+        data: {}
+      data: {}
+  slug: education
+- sys:
+    id: 6dUA9jgrw6obSMJehsTVCS
+    created_at: !ruby/object:DateTime 2020-05-13 17:05:14.773000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 00:14:11.565000000 Z
+    content_type_id: page
+    revision: 3
+  title: New Tech & Innovation
+  body:
+    nodeType: document
+    data: {}
+    content:
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Advancement in Therapy & Treatment
+        marks:
+        - type: bold
+        data: {}
+      data: {}
+    - nodeType: unordered-list
+      content:
+      - nodeType: list-item
+        data: {}
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: 'Inhaled antibiotics have been used to treat Cystic Fibrosis patients
+              for some time, however, it was thought that they may help a portion
+              of PI patients - those with bronchiectasis or chronic lung disease. '
+            marks: []
+            data: {}
+          - nodeType: hyperlink
+            content:
+            - nodeType: text
+              value: https://www.ncbi.nlm.nih.gov/pubmed/31405826
+              marks:
+              - type: underline
+              data: {}
+            data:
+              uri: https://www.ncbi.nlm.nih.gov/pubmed/31405826
+          - nodeType: text
+            value: ''
+            marks: []
+            data: {}
+          data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: 'A Phase I trial completed last year in Europe, showed promising
+              results for an inhaled immune globulin. This inhaled IG, would not be
+              a replacement for IVIG or SCIG, but may help patients with chronic upper
+              respiratory infections. '
+            marks: []
+            data: {}
+          - nodeType: hyperlink
+            content:
+            - nodeType: text
+              value: https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-019-1057-3
+              marks:
+              - type: underline
+              data: {}
+            data:
+              uri: https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-019-1057-3
+          - nodeType: text
+            value: ''
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        data: {}
+        value: Genetic Therapy
+        marks: []
+      data: {}
+    - nodeType: unordered-list
+      content:
+      - nodeType: list-item
+        data: {}
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: In current Phase III trials in Europe, Orchard Therapeutics, is
+              developing a gene therapy for ADA-SCID.
+            marks: []
+            data: {}
+          data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: In current Phase III trials in Europe, Orchard Therapeutics, is
+              developing a gene therapy for Wiskott-Aldrich Syndrome (WAS).
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: In Europe, Orchard Therapeutics, are planning a clinical trial
+              for X-linked Chronic granulomatous disease. 
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Mustang Bio is doing a multi-centre gene therapy study (US/UK)
+              entering Phase II for X-linked SCID.
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        data: {}
+        value: Technology
+        marks: []
+      data: {}
+    - nodeType: unordered-list
+      content:
+      - nodeType: list-item
+        data: {}
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: CSL Behring introduced the Pre-Filled Syringe in Canada in 2017
+              in the 10ml format. This year, 2020, they will also be introducing PFS
+              in 2ml, 5ml, and 20ml.
+            marks: []
+            data: {}
+          data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: CSL Behring is developing a “disk” which patients would adhere
+              onto the infusion site. A button would activate the infusion needle
+              and immune globulin, starting the infusion.
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        data: {}
+        value: Clinical Trials
+        marks: []
+      data: {}
+    - nodeType: unordered-list
+      content:
+      - nodeType: list-item
+        data: {}
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: 'Current: For a list of clinical trials currently recruiting and
+              not yet recruiting, '
+            marks: []
+            data: {}
+          - nodeType: hyperlink
+            content:
+            - nodeType: text
+              value: clinicaltrials.gov
+              marks:
+              - type: underline
+              data: {}
+            data:
+              uri: http://clinicaltrials.gov
+          - nodeType: text
+            value: ''
+            marks: []
+            data: {}
+          data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: 'Disrupted: For a list of disrupted clinical trials due to COVID-19, '
+            marks: []
+            data: {}
+          - nodeType: hyperlink
+            content:
+            - nodeType: text
+              value: Disrupted Clinical Trials
+              marks:
+              - type: underline
+              data: {}
+            data:
+              uri: https://www.biopharmadive.com/news/coronavirus-clinical-trial-disruption-biotech-pharma/574609/
+          - nodeType: text
+            value: ''
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        data: {}
+        value: ''
+        marks: []
+      data: {}
+  slug: new-tech-and-innovation
+- sys:
+    id: 42xb4xulQmUsYF7g2IQW2w
+    created_at: !ruby/object:DateTime 2020-05-13 17:05:40.898000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 00:13:17.577000000 Z
+    content_type_id: page
+    revision: 2
+  title: Patient Advocacy
+  body:
+    nodeType: document
+    data: {}
+    content:
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: As the only patient organization for primary immunodeficiency in Canada,
+          CIPO is dedicated to representing the PI patient voice. CIPO works at all
+          levels of governement as well with clinics, regulators, industry and the
+          rare disease community to ensure that the PI voice is heard. If you would
+          like to get involved in one or any of the initiatives below, please contact
+          us today.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Home Delivery of SCIG Products
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Throughout the COVID-19 pandemic, CIPO has been working with the Network
+          for Rare Blood Disorders Organization (NRBDO), the Canadian Hemophilia Society
+          (CHS) and the GBS/CIDP Foundation of Canada to organize home delivery of
+          SCIG products for all patients across Canada. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Paid Plasma 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: CIPO supports compensation for donation of plasma in Canada. (see CIPO’s
+          policy on Paid Plasma). 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: This year, CIPO is working to reverse the Voluntary Blood Donations
+          Act in Alberta, which bans the compensation of plasma in Alberta.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: In 2019, CIPO testified in the Senate’s Committee for Social Policy
+          and was instrumental for the failure of a national ban on compensation of
+          plasma.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Watch our testimony at the Senate. (link)
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Read our submission to the Senate (link)
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Read our submission to the BC Legislature (link)
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Read our submission to the ON Legislature (link)
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Plasma Supply and Access
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Connected to “Paid Plasma”, CIPO has long been advocating about Canada’s
+          need to increase it’s plasma supply in order to secure PI patients’ access
+          to IG products. CIPO also advocates for PI patients’ access to IG products
+          in Canada where the global IG supply is tightening.  We are currently working
+          with our international partners and other patient groups in Canada that
+          use plasma and IG products. Our goal is to ensure that issues, such as the
+          SCIG shortage of 2019 are not repeated.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Read our SCIG Shortage Report
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Read our statement to Canadian Blood Services open board meeting, June
+          20, 2019
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: SCID Newborn Screening
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: CIPO believes that SCID should be included in Newborn Screening programs
+          across Canada. Currently, 6 provinces and 2 territories screen for SCID
+          (with Manitoba being the latest addition in 2020). CIPO works with affected
+          families and treating physicians to create economic impact studies and advocate
+          for the provinces and territories. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Emergency Medicine 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: We know that the emergency room can be a negative experience for many
+          with PI. CIPO is committed to improving emergent and urgent care settings
+          for PI patients across Canada.  
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: unordered-list
+      content:
+      - nodeType: list-item
+        data: {}
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: 'PI Patient Wallet Cards - these cards have been developed in partnership
+              with the National Emergency Nurses Association. To receive yours, simply
+              email '
+            marks: []
+            data: {}
+          - nodeType: hyperlink
+            content:
+            - nodeType: text
+              value: info@cipo.ca
+              marks:
+              - type: underline
+              data: {}
+            data:
+              uri: mailto:info@cipo.ca
+          - nodeType: text
+            value: " with a mailing address."
+            marks: []
+            data: {}
+          data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: ER Nurse Training - CIPO is developing a ER Nurse training module
+              in partnership with NENA
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Emergency Medicince Guidelines - CIPO will be developing Emergency
+              Medicine Guidelines with NENA and the Canadian Association of Emergency
+              Physicians. 
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        data: {}
+        value: The Emergency Medicine Initiative is possible with support provided
+          by Grifols Canada. 
+        marks:
+        - type: italic
+      data: {}
+  slug: patient-advocacy
+- sys:
+    id: kEXub0PyQhhVMkCRKsprZ
+    created_at: !ruby/object:DateTime 2020-05-13 17:05:57.264000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 00:11:39.818000000 Z
+    content_type_id: page
+    revision: 2
+  title: Peer Support Program
+  body:
+    nodeType: document
+    data: {}
+    content:
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Have you, or someone you loved, been recently diagnosed with a primary
+          immunodeficiency? Have you, or someone you loved, been struggling or could
+          use a little extra support?
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: CIPO is here for YOU!
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: What is it?
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Our peer support program has trained peer support coaches to help you
+          through this difficult journey. We understand that navigating through a
+          primary immunodeficiency diagnosis, the testing, and starting treatment
+          can be overwhelming. Sometimes it is nice to hear and be heard from someone
+          who understands, someone who has shared experience. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Who is it?
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Our coaches are a group of trained volunteers from across Canada. CIPO
+          has trained men and women ranging in age from late 20s to late 70s, with
+          more trained every year. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Where do I start?
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: 'Simply email '
+        marks: []
+        data: {}
+      - nodeType: hyperlink
+        content:
+        - nodeType: text
+          value: support@cipo.ca
+          marks:
+          - type: underline
+          data: {}
+        data:
+          uri: mailto:support@cipo.ca
+      - nodeType: text
+        value: " and our Peer Support Coordinator, Erin, will get in touch within
+          72 hours. Depending on how much info you provided, she may ask a few questions.
+          Erin will then match you with one of our coaches, based on a “profile” and
+          your preferences (region, diagnosis, age, etc.). "
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: What Next?
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Your Peer Support Coach will email you and set up a time to “meet”
+          virtually. Depending on your preferences, it could be a phone call, e-chat,
+          or virtual meeting. For the safety and security of our coaches and the program,
+          coaches do not meet their peers in person. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: At the end of your first “meeting”, your coach will arrange a follow-up
+          “meeting” with you. Typically, coaches and peers will meet on average 2-3
+          times. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: How can I become a coach?
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: 'If you think you would make a good peer support coach, we are always
+          looking for volunteers. The free training takes place once a year. Please
+          contact '
+        marks: []
+        data: {}
+      - nodeType: hyperlink
+        content:
+        - nodeType: text
+          value: support@cipo.ca
+          marks:
+          - type: underline
+          data: {}
+        data:
+          uri: mailto:support@cipo.ca
+      - nodeType: text
+        value: " for an application. "
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: The Peer Support Program is possible with the ongoing support provided
+          by Takeda Canada.
+        marks:
+        - type: italic
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Many thanks to our friends at the Immune Deficiency Foundation for
+          the provision of the Peer Support Program.
+        marks:
+        - type: italic
+        data: {}
+      data: {}
+  slug: peer-support-program
+- sys:
+    id: 3xAyCt1NzUVDFzOoZCwUDM
+    created_at: !ruby/object:DateTime 2020-05-13 17:06:15.827000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 00:11:02.020000000 Z
+    content_type_id: page
+    revision: 2
+  title: PI Meetups
+  body:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Why
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Primary Immunodeficiency can be very isolating, leaving many patients
+          feeling alone. CIPO holds regular get togethers across Canada (and virtually!)
+          in order for those affected with PI across Canada to connect and share. 
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: What
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'Meetups are informal, fun places for people affected by PI to get
+          together. Depending on the meetup, and the organizer, it could be:'
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: an outdoor picnic
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: a pizza night
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: a crafting evening
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: coffee & cookies
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: paint your own pottery
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Chilli dinner
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: CIPO also has virtual meetups, where people can share and connect online
+          from the comfort of their own home. The virtual meetups will always have
+          one CIPO volunteer moderating the session, to allow for safety.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Where
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Virtual - every Wednesday 8pm-9:30pm EDT
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'DUE TO COVID-19 ALL '
+        nodeType: text
+      - data: {}
+        marks:
+        - type: italic
+        - type: bold
+        value: IN PERSON
+        nodeType: text
+      - data: {}
+        marks: []
+        value: " MEETINGS ARE ON HOLD UNTIL FURTHER NOTICE"
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Who
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'We know that PI can affect many people around the patient - parents,
+          spouse, partner, family, friends. This is why CIPO Meetups are open to all
+          who are affected by PI in Canada. '
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  slug: pi-meetups
+- sys:
+    id: 5RIDhkJNT6UApNxX6KZecF
+    created_at: !ruby/object:DateTime 2020-05-13 17:04:31.046000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-13 17:04:31.046000000 Z
+    content_type_id: page
+    revision: 1
+  title: Financial Assistance Program
+  body:
+    nodeType: document
+    data: {}
+    content:
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: CIPO is pleased to be able to offer financial assistance to those affected
+          by PI in Canada. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: We understand that living with PI can sometimes cause difficulties
+          in our lives that we did not plan for. It is our hope that CIPO can offer
+          some assistance. Our Financial Assistance Program offers up to $500 per
+          applicant (family or individual) per calendar year. 
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: 'Funds can be used towards medical related expenses, such as:'
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: unordered-list
+      content:
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Travel and/or accommodation to and from medical appointment
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Appointment(s) with a mental health professional (social worker,
+              counsellor, psychologist, etc.)
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Ancillary supplies needed relating to your PI
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Services needed relating to your PI (physio, interpreter, etc.)
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: 'To access our Financial Assistance Program, please email or mail the
+          application to us. All information provided is confidential. '
+        marks: []
+        data: {}
+      data: {}
+  slug: financial-assistance-program
+- sys:
+    id: CfpzgymEyCktNiJMttgui
+    created_at: !ruby/object:DateTime 2020-05-13 17:03:47.469000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-13 17:03:47.469000000 Z
+    content_type_id: page
+    revision: 1
+  title: About CIPO
+  body:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Formed in 1997 by a motivated few who were looking for more support
+          and information, for more than 20 years, CIPO has provided support, education
+          and advocacy for patients and families whose lives are affected by Primary
+          Immunodeficiencies in Canada.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Mission
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: To provide advocacy, education and support for all immunodeficient
+          patients diagnosed and not yet diagnosed in Canada.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Structure
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'CIPO is a national charity, with 6 provincial chapters in BC, Alberta,
+          Manitoba, Ontario, Quebec and Atlantic Canada. The national organization
+          has a small staff that manages the day-to-day operations and reports to
+          the board of directors. We also have two medical advisory committees. '
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'Board of Directors:'
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: |-
+          Chair, Christine Duncan
+          Vice-Chair, Kaie Ramsden
+          Treasurer, Lee Strickland
+          Secretary, Alex Blake
+          Directors:
+          Martine Allard, Quebec
+          Wendy Chandler, BC
+          Jazmin Chase, Atlantic
+          Elizabeth Doherty, Atlantic
+          Gina Lazor, Alberta
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Medical Science Advisory Committee
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: |-
+          Co-Chair, Dr. Stephen Betschel
+          Co-Chair, Dr. Bruce Ritchie
+          Dr. Anne Junker
+          Dr. Donald Vingh
+          Dr. Robert Schellenberg
+          Dr. Thomas Issekutz
+          Dr. Richard Warrington
+          Dr. Bruce Mazar
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Nurse Advisory Committee
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: |-
+          Florence MacKay
+          Noor Nongfei Zhu
+          Tara-Lyn Redfern
+          Lynda Theoret
+          Karen Chestney
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Staff
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: "Executive Director, Whitney Goulstone\nPrograms Director, Erin Harder\nAdministrative
+          Assistant, \nSocial Media Coordinator, \nFund Development Coordinator, "
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  slug: about
 chapter:
 - sys:
     id: 69ODpiJ4NAr5XNbFzU8XKU
@@ -303,140 +1412,6 @@ video:
       revision: 1
     name: Diagnosis
     slug: diagnosis
-document:
-- sys:
-    id: 4zu8A2TC4sVBti9Ici5jkZ
-    created_at: !ruby/object:DateTime 2020-04-29 00:43:31.791000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-29 00:43:31.791000000 Z
-    content_type_id: document
-    revision: 1
-  title: About CIPO
-  content:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Formed in 1997 by a motivated few who were looking for more support
-          and information, for more than 20 years, CIPO has provided support, education
-          and advocacy for patients and families whose lives are affected by Primary
-          Immunodeficiencies in Canada.
-        nodeType: text
-      nodeType: paragraph
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Mission
-        nodeType: text
-      nodeType: heading-2
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: To provide advocacy, education and support for all immunodeficient
-          patients diagnosed and not yet diagnosed in Canada.
-        nodeType: text
-      nodeType: paragraph
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Structure
-        nodeType: text
-      nodeType: heading-2
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: 'CIPO is a national charity, with 6 provincial chapters in BC, Alberta,
-          Manitoba, Ontario, Quebec and Atlantic Canada. The national organization
-          has a small staff that manages the day-to-day operations and reports to
-          the board of directors. We also have two medical advisory committees. '
-        nodeType: text
-      nodeType: paragraph
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: 'Board of Directors:'
-        nodeType: text
-      nodeType: heading-2
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: |-
-          Chair, Christine Duncan
-          Vice-Chair, Kaie Ramsden
-          Treasurer, Lee Strickland
-          Secretary, Alex Blake
-          Directors:
-          Martine Allard, Quebec
-          Wendy Chandler, BC
-          Jazmin Chase, Atlantic
-          Elizabeth Doherty, Atlantic
-          Gina Lazor, Alberta
-        nodeType: text
-      nodeType: paragraph
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Medical Science Advisory Committee
-        nodeType: text
-      nodeType: heading-2
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: |-
-          Co-Chair, Dr. Stephen Betschel
-          Co-Chair, Dr. Bruce Ritchie
-          Dr. Anne Junker
-          Dr. Donald Vingh
-          Dr. Robert Schellenberg
-          Dr. Thomas Issekutz
-          Dr. Richard Warrington
-          Dr. Bruce Mazar
-        nodeType: text
-      nodeType: paragraph
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Nurse Advisory Committee
-        nodeType: text
-      nodeType: heading-2
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: |-
-          Florence MacKay
-          Noor Nongfei Zhu
-          Tara-Lyn Redfern
-          Lynda Theoret
-          Karen Chestney
-        nodeType: text
-      nodeType: paragraph
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Staff
-        nodeType: text
-      nodeType: heading-2
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: "Executive Director, Whitney Goulstone\nPrograms Director, Erin Harder\nAdministrative
-          Assistant, \nSocial Media Coordinator, \nFund Development Coordinator, \n"
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
 tag:
 - sys:
     id: 1401LsmxnqFvx4JRNfDKJg
@@ -478,7 +1453,7 @@ article:
     content_type_id: article
     revision: 2
   title: 'Article #1'
-  content:
+  body:
     data: {}
     content:
     - data: {}

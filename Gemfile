@@ -11,4 +11,5 @@ group :jekyll_plugins do
     gem "jekyll-feed", "~> 0.12"
     gem "jekyll-strapi", github: 'strapi/jekyll-strapi'
     gem "jekyll-contentful-data-import"
+    gem "jekyll-datapage-generator", "~> 1.2.0"
 end

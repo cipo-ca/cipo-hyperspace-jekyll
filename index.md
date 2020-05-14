@@ -2,33 +2,33 @@
 title: Home
 sidebar:
   entries:
-    - title: Welcome
-      url: '#intro'
-      is_primary: true
     - title: This Week
-      url: '#this-week'
+      url: "#this-week"
       is_primary: false
-    - title: What we do
-      url: '#what-we-do'
+    - title: Get Help
+      url: "#get-help"
       is_primary: false
-    - title: Learning Zone
-      url: '#learning-zone'
+    - title: Get Informed
+      url: "#learn"
+      is_primary: false
+    - title: Find a Chapter
+      url: "#map"
       is_primary: false
     - title: Get involved
-      url: '#get-involved'
+      url: "#get-involved"
       is_primary: false
 sections:
   - title:
     logo_img:
-      path: images/CIPO_logo_lrg.png 
+      path: images/CIPO_logo_lrg.png
       data_position: center center
     subtitle: |-
-      Canadian Immunodeficiencies Patient Organization.  
+      Canadian Immunodeficiencies Patient Organization.
     section_id: intro
     background_style: style1
     actions:
       - label: More
-        url: '#this-week'
+        url: "#this-week"
         is_scrolly: true
         is_primary: true
     component: intro.html
@@ -45,16 +45,16 @@ sections:
     type: campaign
     actions:
       - label: More
-        url: '#what-we-do'
+        url: "#what-we-do"
         is_scrolly: true
         is_primary: true
-  - title: What we do
+  - title: Get Help
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
-    section_id: what-we-do
+    section_id: get-help
     background_style: style3
     features_list:
       - title: Peer Support Program
@@ -62,49 +62,52 @@ sections:
           Are you newly diagnosed or in need of a little extra support? 
           CIPO has you covered. Our Peer Support Program will pair you with a specially trained coach, 
           to help guide you through your patient journey.
-        icon: 
+        link: /peer-support-program
+        bg:
       - title: Financial Assistance Program
         text: >-
           Are you overwhelmed because of your PI? You are not alone. 
-          Our financial assistance program can help you get back on track. 
-        icon: fa-lock
-        bg: 
+          Our financial assistance program can help you get back on track.
+        link: /financial-assistance-program
+        bg:
       - title: PI Meetups
         text: >-
           These fun, informal get togethers help you connect and share with others who understand exactly what you are experiencing. 
           Come on out to one in your area! Can’t find one near you? We’ll give you everything you need to get you started.
-        icon: fa-users 
+        link: /pi-meetups
+        bg:
       - title: Education Sessions
         text: >-
           CIPO will always do our best to keep you up-to-date and informed. 
           Learn about the very latest in treatments and disease states regarding PI.
-        icon: fa-desktop
-      - title: Patient Advocacy
-        text: >-
-          CIPO is proud to be the voice of the PI community in Canada. 
-          We continue to advocate on all levels of governement of issues relating to the PI, 
-          including: IG and plasma supply, Newborn Screening, paid plasma, Emergency Medicine, Comprehensive Care, and more.
-        icon: fa-chain
-      - title: Research and Technology
-        text: >-
-          Find all you need to know to keep yourself up to date on the latest in research and technology in PI treatment and IG. 
-        icon: fa-code
-    actions:
-      - label: More
-        url: '#learning-zone'
-        is_scrolly: true
-        is_primary: true
+        link: /education
+        bg:
+#      - title: Patient Advocacy
+#        text: >-
+#          CIPO is proud to be the voice of the PI community in Canada. 
+#          We continue to advocate on all levels of governement of issues relating to the PI, 
+#          including: IG and plasma supply, Newborn Screening, paid plasma, Emergency Medicine, Comprehensive Care, and more.
+#        icon: fa-chain
+#      - title: Research and Technology
+#        text: >-
+#          Find all you need to know to keep yourself up to date on the latest in research and technology in PI treatment and IG.
+#        icon: fa-code
+#    actions:
+#      - label: More
+#        url: "#learn"
+#        is_scrolly: true
+#        is_primary: true
     component: features.html
     type: features
-  - title: Learning Zone
-    section_id: learning-zone
+  - title: Learn
+    section_id: learn
     background_style: style3-alt
     component: spotlights.html
     type: spotlights
-  - title: CIPO Chapters
+  - title: Find a Chapter
     subtitle: >-
-         Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-         aliquam turpis mauris, sed ultricies erat dapibus.
+      Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+      aliquam turpis mauris, sed ultricies erat dapibus.
     section_id: map
     background_style: style3-alt
     component: map.html
