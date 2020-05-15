@@ -4,12 +4,12 @@
   position: relative;
 
   > .inner {
-    @include padding(5em, 5em);
+    @include padding(5em , 5em);
     max-width: 100%;
     width: _size(inner-width);
 
     @include breakpoint("<=xlarge") {
-       @include padding(4em, 4em);
+      @include padding(4em, 4em);
       /* padding: 3em 4em; */
     }
 
@@ -18,7 +18,7 @@
     }
 
     @include breakpoint("<=small") {
-      @include padding(3em, 2em);
+      @include padding(2em, 2em);
       min-height: 80vh;
     }
   }
@@ -32,7 +32,11 @@
   }
 
   &.style1-alt {
-    background-image: linear-gradient(to top left, _palette(accent1), _palette(accent2));
+    background-image: linear-gradient(
+      to top left,
+      _palette(accent1),
+      _palette(accent2)
+    );
     //background_image: url('images/intro.svg')
   }
 
@@ -41,7 +45,11 @@
   }
 
   &.style2-alt {
-    background-image: linear-gradient(to bottom, _palette(accent2), _palette(accent3));
+    background-image: linear-gradient(
+      to bottom,
+      _palette(accent2),
+      _palette(accent3)
+    );
     //background-image: url('images/liquid-cheese.svg');
     //background-color: _palette(accent2);
     //background-repeat: no-repeat;
@@ -53,12 +61,21 @@
   }
 
   &.style3-alt {
-    background-image: linear-gradient(to bottom, _palette(accent3), _palette(accent4));
+    background-image: linear-gradient(
+      to bottom,
+      _palette(accent3),
+      _palette(accent4)
+    );
     //background-color: _palette(accent3);
   }
 
   &.style4 {
     background-color: _palette(accent4);
+  }
+
+  &.style-bubbles {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("images/bubbles-alt.jpg");
+    background-size:  cover;
   }
 
   &.fullscreen {

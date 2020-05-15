@@ -24,7 +24,7 @@ layout: body
             </tr>
             <tr>
               <th>Duration</th>
-              <td>{{ event.duration | round }} hr</td>
+              <td>{{ event.duration | round }}&#160;{% if event.duration > 1 %}hrs{% else %}hr{% endif %}</td>
             </tr>
             <tr>
               <th>Location</th>

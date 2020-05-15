@@ -2,50 +2,35 @@
 title: Home
 sidebar:
   entries:
-    - title: This Week
+    - title: CIPO This Week
       url: "#this-week"
       is_primary: false
     - title: Get Help
       url: "#get-help"
       is_primary: false
     - title: Get Informed
-      url: "#learn"
-      is_primary: false
-    - title: Find a Chapter
-      url: "#map"
+      url: "#get-informed"
       is_primary: false
     - title: Get involved
       url: "#get-involved"
       is_primary: false
+    - title: Find a Chapter
+      url: "#map"
+      is_primary: false
 sections:
-  - title:
-    logo_img:
-      path: images/CIPO_logo_lrg.png
-      data_position: center center
-    subtitle: |-
-      Canadian Immunodeficiencies Patient Organization.
-    section_id: intro
-    background_style: style1
-    actions:
-      - label: More
-        url: "#this-week"
-        is_scrolly: true
-        is_primary: true
-    component: intro.html
-    type: intro
   - title: This Week in PI
+    logo_img: images/CIPO_logo_lrg.png
     subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+        Formed in 1997 by a motivated few who were looking for more support and information, 
+        for more than 20 years, CIPO has provided support, education and advocacy for patients and families 
+        whose lives are affected by Primary Immunodeficiencies in Canada.
     section_id: this-week
-    background_style: style2-alt
+    background_style: style-bubbles fullscreen
     component: this-week.html
     type: campaign
     actions:
       - label: More
-        url: "#what-we-do"
+        url: "#get-help"
         is_scrolly: true
         is_primary: true
   - title: Get Help
@@ -55,7 +40,7 @@ sections:
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
     section_id: get-help
-    background_style: style3
+    background_style: style3 fullscreen
     features_list:
       - title: Peer Support Program
         text: >-
@@ -81,7 +66,6 @@ sections:
           CIPO will always do our best to keep you up-to-date and informed. 
           Learn about the very latest in treatments and disease states regarding PI.
         link: /education
-        bg:
 #      - title: Patient Advocacy
 #        text: >-
 #          CIPO is proud to be the voice of the PI community in Canada. 
@@ -99,19 +83,21 @@ sections:
 #        is_primary: true
     component: features.html
     type: features
-  - title: Learn
-    section_id: learn
-    background_style: style3-alt
+    actions:
+      - label: More
+        url: "#get-informed"
+        is_scrolly: true
+        is_primary: true
+  - title: Get Informed
+    section_id: get-informed
+    background_style: style3-alt fullscreen
     component: spotlights.html
     type: spotlights
-  - title: Find a Chapter
-    subtitle: >-
-      Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-      aliquam turpis mauris, sed ultricies erat dapibus.
-    section_id: map
-    background_style: style3-alt
-    component: map.html
-    type: map
+    actions:
+      - label: Get Informed 
+        url: "#get-informed"
+        is_scrolly: true
+        is_primary: true
   - title: Get Involved
     subtitle: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
@@ -119,7 +105,7 @@ sections:
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
     section_id: get-involved
-    background_style: style3
+    background_style: style3 fullscreen
     cta_list:
       - title: Join CIPO
         text: >-
@@ -151,6 +137,14 @@ sections:
         link: /donate
     component: calls-to-action.html
     type: features
+  - title: Find a Chapter
+    subtitle: >-
+      Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+      aliquam turpis mauris, sed ultricies erat dapibus.
+    section_id: map
+    background_style: style3-alt fullscreen
+    component: map.html
+    type: map
 menus:
   main:
     title: Home

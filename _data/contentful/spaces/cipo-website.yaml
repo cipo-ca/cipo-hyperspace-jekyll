@@ -1,4 +1,185 @@
 ---
+video:
+- sys:
+    id: 4c2uKX9XPsj3oBRSEVX88F
+    created_at: !ruby/object:DateTime 2020-04-28 00:45:27.355000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 21:12:04.948000000 Z
+    content_type_id: video
+    revision: 3
+  title: 'Plasma donation: what to expect?'
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: A video documenting the plasma donation process.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=G5XeBEJGAfk
+  screenshot:
+    sys:
+      id: 7sRHWtYif9x8NYqMeGsFtE
+      created_at: !ruby/object:DateTime 2020-04-28 00:44:46.628000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-28 00:54:31.344000000 Z
+    title: plasmadonation-ss
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/7sRHWtYif9x8NYqMeGsFtE/57eb6b8ae2dd70218107445b02a1f7f8/plasmadonation-ss.jpg"
+  prominence: higher
+  tags:
+  - sys:
+      id: 4GBRe9Mg2nrgKOGbOurXFz
+      created_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Plasma
+    slug: plasma
+- sys:
+    id: 1CPgUdQqbqJAymz6dgxtNf
+    created_at: !ruby/object:DateTime 2020-03-05 01:30:10.139000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 21:11:26.457000000 Z
+    content_type_id: video
+    revision: 17
+  title: Stories of patients with Primary Immunodeficiencies - Ewa Kapuścińska (CVID)
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Video produced by Polish Association for Patients with Primary Immunodeficiencies.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=zd6tNVMMg5c
+  screenshot:
+    sys:
+      id: 4PGCBLeHm3i3BWjzcIJAqR
+      created_at: !ruby/object:DateTime 2020-03-05 01:29:58.532000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:29:58.532000000 Z
+    title: Ewa
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/4PGCBLeHm3i3BWjzcIJAqR/3b3667a402e0f0909443d9fba5b9e64a/ewa.jpg"
+  prominence: normal
+- sys:
+    id: 5ziZkOpxw3smpo02W2rcvq
+    created_at: !ruby/object:DateTime 2020-03-05 01:28:01.401000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-29 22:57:35.309000000 Z
+    content_type_id: video
+    revision: 6
+  title: Primary Immunodeficiency - a documentary on PID (full)
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Documentary film about PID produced by Polish Association for Patients
+          with Primary Immunodeficiencies "Immunoprotect"
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=USK5X_6H97k
+  screenshot:
+    sys:
+      id: 3S0yxDaYTITcbOxmxc3EVk
+      created_at: !ruby/object:DateTime 2020-03-05 01:27:44.512000000 Z
+      updated_at: !ruby/object:DateTime 2020-03-05 01:27:53.189000000 Z
+    title: PID Documentary Still
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/3S0yxDaYTITcbOxmxc3EVk/68acfff5b980fc403fc6014714eaca2d/piddocu.jpg"
+  prominence: normal
+- sys:
+    id: 4J9paaWKuEDYZ3jwkQp2DS
+    created_at: !ruby/object:DateTime 2020-04-28 16:03:01.685000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-29 22:57:14.332000000 Z
+    content_type_id: video
+    revision: 2
+  title: Plasma
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Plasma is the protein-rich liquid in blood that helps other blood components
+          circulate throughout your body. It supports your immune system and helps
+          control excessive bleeding, which is why plasma donations are important
+          to help treat bleeding disorders, liver diseases and cancer.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=eJReJsYaAfI
+  screenshot:
+    sys:
+      id: 1wuHeBfjhq8pKPGToyZp6D
+      created_at: !ruby/object:DateTime 2020-04-28 16:02:23.727000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-28 16:02:23.727000000 Z
+    title: plasma-cbs-ss
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/1wuHeBfjhq8pKPGToyZp6D/5de44ee35b18a4ec1b9bdcf7517f1503/plasma-cbs-ss.jpg"
+  prominence: normal
+  tags:
+  - sys:
+      id: 4GBRe9Mg2nrgKOGbOurXFz
+      created_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Plasma
+    slug: plasma
+- sys:
+    id: 7nwm26gLOnNo09OGhmFmCk
+    created_at: !ruby/object:DateTime 2020-04-29 00:32:05.568000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-29 22:57:04.250000000 Z
+    content_type_id: video
+    revision: 2
+  title: 'A Rare Condition (PID) | Chapter One: “What’s wrong with me?”'
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Annet, Peter, Jennifer, Tobias and Gary describe how Primary Immunodeficiency
+          Disease (PID) affected their lives long before it was even diagnosed.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=5OC9oOeWudU
+  screenshot:
+    sys:
+      id: 1PbRqfZk3nKd74v5EEt7gw
+      created_at: !ruby/object:DateTime 2020-04-29 00:30:03.879000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-29 00:32:00.880000000 Z
+    title: A Rare Condition Screenshot
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/1PbRqfZk3nKd74v5EEt7gw/36e8ed5d6ce74cf8db251dad692e77ed/ararecondition-ss.jpg"
+  prominence: normal
+  tags:
+  - sys:
+      id: 4Zuxoh3geLqM62dRr0cNyA
+      created_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
+      content_type_id: tag
+      revision: 1
+    name: PID
+    slug: pid
+  - sys:
+      id: 1401LsmxnqFvx4JRNfDKJg
+      created_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Diagnosis
+    slug: diagnosis
 event:
 - sys:
     id: 59EkhZ6Yyzi0bx3uFby7re
@@ -1362,187 +1543,6 @@ chapter:
     in 2018
   monthly_meetups: 'No'
   steering_committee: 'No'
-video:
-- sys:
-    id: 1CPgUdQqbqJAymz6dgxtNf
-    created_at: !ruby/object:DateTime 2020-03-05 01:30:10.139000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-29 23:11:27.156000000 Z
-    content_type_id: video
-    revision: 16
-  title: Stories of patients with Primary Immunodeficiencies - Ewa Kapuścińska (CVID)
-  description:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Video produced by Polish Association for Patients with Primary Immunodeficiencies.
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
-  url: https://www.youtube.com/watch?v=zd6tNVMMg5c
-  screenshot:
-    sys:
-      id: 4PGCBLeHm3i3BWjzcIJAqR
-      created_at: !ruby/object:DateTime 2020-03-05 01:29:58.532000000 Z
-      updated_at: !ruby/object:DateTime 2020-03-05 01:29:58.532000000 Z
-    title: Ewa
-    description: 
-    url: "//images.ctfassets.net/5s11nd0u2wnu/4PGCBLeHm3i3BWjzcIJAqR/3b3667a402e0f0909443d9fba5b9e64a/ewa.jpg"
-  prominence: higher
-- sys:
-    id: 5ziZkOpxw3smpo02W2rcvq
-    created_at: !ruby/object:DateTime 2020-03-05 01:28:01.401000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-29 22:57:35.309000000 Z
-    content_type_id: video
-    revision: 6
-  title: Primary Immunodeficiency - a documentary on PID (full)
-  description:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Documentary film about PID produced by Polish Association for Patients
-          with Primary Immunodeficiencies "Immunoprotect"
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
-  url: https://www.youtube.com/watch?v=USK5X_6H97k
-  screenshot:
-    sys:
-      id: 3S0yxDaYTITcbOxmxc3EVk
-      created_at: !ruby/object:DateTime 2020-03-05 01:27:44.512000000 Z
-      updated_at: !ruby/object:DateTime 2020-03-05 01:27:53.189000000 Z
-    title: PID Documentary Still
-    description: 
-    url: "//images.ctfassets.net/5s11nd0u2wnu/3S0yxDaYTITcbOxmxc3EVk/68acfff5b980fc403fc6014714eaca2d/piddocu.jpg"
-  prominence: normal
-- sys:
-    id: 4c2uKX9XPsj3oBRSEVX88F
-    created_at: !ruby/object:DateTime 2020-04-28 00:45:27.355000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-29 22:57:24.983000000 Z
-    content_type_id: video
-    revision: 2
-  title: 'Plasma donation: what to expect?'
-  description:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: A video documenting the plasma donation process.
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
-  url: https://www.youtube.com/watch?v=G5XeBEJGAfk
-  screenshot:
-    sys:
-      id: 7sRHWtYif9x8NYqMeGsFtE
-      created_at: !ruby/object:DateTime 2020-04-28 00:44:46.628000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-28 00:54:31.344000000 Z
-    title: plasmadonation-ss
-    description: 
-    url: "//images.ctfassets.net/5s11nd0u2wnu/7sRHWtYif9x8NYqMeGsFtE/57eb6b8ae2dd70218107445b02a1f7f8/plasmadonation-ss.jpg"
-  prominence: normal
-  tags:
-  - sys:
-      id: 4GBRe9Mg2nrgKOGbOurXFz
-      created_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
-      content_type_id: tag
-      revision: 1
-    name: Plasma
-    slug: plasma
-- sys:
-    id: 4J9paaWKuEDYZ3jwkQp2DS
-    created_at: !ruby/object:DateTime 2020-04-28 16:03:01.685000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-29 22:57:14.332000000 Z
-    content_type_id: video
-    revision: 2
-  title: Plasma
-  description:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Plasma is the protein-rich liquid in blood that helps other blood components
-          circulate throughout your body. It supports your immune system and helps
-          control excessive bleeding, which is why plasma donations are important
-          to help treat bleeding disorders, liver diseases and cancer.
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
-  url: https://www.youtube.com/watch?v=eJReJsYaAfI
-  screenshot:
-    sys:
-      id: 1wuHeBfjhq8pKPGToyZp6D
-      created_at: !ruby/object:DateTime 2020-04-28 16:02:23.727000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-28 16:02:23.727000000 Z
-    title: plasma-cbs-ss
-    description: 
-    url: "//images.ctfassets.net/5s11nd0u2wnu/1wuHeBfjhq8pKPGToyZp6D/5de44ee35b18a4ec1b9bdcf7517f1503/plasma-cbs-ss.jpg"
-  prominence: normal
-  tags:
-  - sys:
-      id: 4GBRe9Mg2nrgKOGbOurXFz
-      created_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
-      content_type_id: tag
-      revision: 1
-    name: Plasma
-    slug: plasma
-- sys:
-    id: 7nwm26gLOnNo09OGhmFmCk
-    created_at: !ruby/object:DateTime 2020-04-29 00:32:05.568000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-29 22:57:04.250000000 Z
-    content_type_id: video
-    revision: 2
-  title: 'A Rare Condition (PID) | Chapter One: “What’s wrong with me?”'
-  description:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Annet, Peter, Jennifer, Tobias and Gary describe how Primary Immunodeficiency
-          Disease (PID) affected their lives long before it was even diagnosed.
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
-  url: https://www.youtube.com/watch?v=5OC9oOeWudU
-  screenshot:
-    sys:
-      id: 1PbRqfZk3nKd74v5EEt7gw
-      created_at: !ruby/object:DateTime 2020-04-29 00:30:03.879000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-29 00:32:00.880000000 Z
-    title: A Rare Condition Screenshot
-    description: 
-    url: "//images.ctfassets.net/5s11nd0u2wnu/1PbRqfZk3nKd74v5EEt7gw/36e8ed5d6ce74cf8db251dad692e77ed/ararecondition-ss.jpg"
-  prominence: normal
-  tags:
-  - sys:
-      id: 4Zuxoh3geLqM62dRr0cNyA
-      created_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
-      content_type_id: tag
-      revision: 1
-    name: PID
-    slug: pid
-  - sys:
-      id: 1401LsmxnqFvx4JRNfDKJg
-      created_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
-      content_type_id: tag
-      revision: 1
-    name: Diagnosis
-    slug: diagnosis
 tag:
 - sys:
     id: 1401LsmxnqFvx4JRNfDKJg
