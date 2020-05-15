@@ -1,0 +1,44 @@
+---
+layout: body
+---
+
+<!-- Wrapper -->
+<div id="wrapper">
+  <!-- Main -->
+  <section id="main" class="wrapper">
+    <div class="inner">
+      <!--<span class="image fit"><img src="{{ page.content_img_path | relative_url }}" alt="" /></span>-->
+      <h1>{{ page.title }}</h1>
+      {{ content }} {%- if site.data.contentful.spaces.cipo-website.event.size >
+      0 -%}
+      <ul class="events">
+        {%- for event in site.data.contentful.spaces.cipo-website.event -%}
+        <a class="event-link" href="{{ event.url | relative_url }}"><h3>{{ event.title }}</h3></a>
+        <li>
+          <table>
+            <tr>
+              <th>Date</th>
+              <td>{{ event.date | date: "%-d %B %Y %I:%M %p %z " }}</td>
+            </tr>
+            <tr>
+              <th>Duration</th>
+              <td>{{ event.duration | round }} hr</td>
+            </tr>
+            <tr>
+              <th>Location</th>
+              <td>{{ event.location }}</td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                {{ event.description.content[0].content[0].value | markdownify |
+                strip_html | truncatewords: 60 }}
+              </td>
+            </tr>
+          </table>
+        </li>
+        {%- endfor -%}
+      </ul>
+      {%- endif -%}
+    </div>
+  </section>
+</div>

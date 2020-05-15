@@ -1,0 +1,34 @@
+.events {
+  margin: 0;
+  padding: 0;
+
+  h3 {
+    margin-left: 0.5em;
+  }
+
+  li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    table {
+      border: 0;
+      background-color: _palette(accent3);
+      tr {
+        height: 2em;
+        border: 0;
+        td {
+          border: 0;
+          margin: 0;
+          padding: 0.5em;
+        }
+
+        th {
+          border: 0;
+          margin: 0;
+          padding: 0.5em;
+        }
+
+      }
+    }
+  }
+}

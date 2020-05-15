@@ -1,6 +1,6 @@
 <div class="cta-items">
   {% for cta in include.section.cta_list %}
-  <a class="cta-link" href="{{ cta.url | relative_url }}">
+  <a class="cta-link" href="{{ cta.link | relative_url }}">
     <div class="cta-item" style="background-image: url('../{{ cta.bg }}')">
       <i class="cta-icon fa fa-6x {{ cta.icon }}"></i>
       <div class="cta-item-description">

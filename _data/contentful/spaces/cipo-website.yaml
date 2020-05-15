@@ -1,4 +1,110 @@
 ---
+event:
+- sys:
+    id: m3l4RCnQdezmyHeujMu38
+    created_at: !ruby/object:DateTime 2020-05-14 19:43:05.424000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 23:19:54.452000000 Z
+    content_type_id: event
+    revision: 2
+  title: Ask The Experts Webinar with Dr Bunsen Honeydew
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+          eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+          amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+          diam voluptua.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  location: http://www.cipo.ca
+  date: !ruby/object:DateTime 2020-06-01 00:00:00.000000000 Z
+  duration: 1.0
+- sys:
+    id: 2lGVyj2Ss0PhiMw1TrQA06
+    created_at: !ruby/object:DateTime 2020-05-14 19:40:03.207000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-14 19:40:03.207000000 Z
+    content_type_id: event
+    revision: 1
+  title: Virtual Patient Meetup
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: We know that the current pandemic can be isolating, so we’ve created
+          a virtual space for PI patients and family to come together and connect.
+          Join us 
+        nodeType: text
+      - data: {}
+        marks:
+        - type: bold
+        value: every Wednesday at 8pm Eastern (5pm Pacific).
+        nodeType: text
+      - data: {}
+        marks: []
+        value: " This will be a an ongoing meet up, to talk to others across Canada
+          who share a similar lived experience. Join the meeting here: "
+        nodeType: text
+      - data:
+          uri: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
+        content:
+        - data: {}
+          marks: []
+          value: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
+          nodeType: text
+        nodeType: hyperlink
+      - data: {}
+        marks: []
+        value: ''
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'New to GoToMeeting? Get the app now and be ready when your first meeting
+          starts:
+
+'
+        nodeType: text
+      - data:
+          uri: https://global.gotomeeting.com/install/616402533
+        content:
+        - data: {}
+          marks: []
+          value: https://global.gotomeeting.com/install/616402533
+          nodeType: text
+        nodeType: hyperlink
+      - data: {}
+        marks: []
+        value: ''
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: This is a time for the PI community to talk. Please note that a CIPO
+          staff member or volunteer will be on the virtual call for monitoring, but
+          will not be actively taking part. Any questions regarding CIPO and our activities
+          or programs can be addressed directly to CIPO by emailing info@cipo.ca or
+          by telephoning 1-877-607-2476. 
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  location: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
+  date: !ruby/object:DateTime 2020-05-20 20:00:00.000000000 -04:00
+  duration: 1.5
 page:
 - sys:
     id: 4VNzL2oWdIofjxn57aAbrU

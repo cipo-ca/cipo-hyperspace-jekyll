@@ -15,7 +15,7 @@ const colors = {
 };
 
 const disabled = ["CA-NT", "CA-NU", "CA-NL", "CA-YT"];
-const waitForJQuery = setInterval(function () {
+const waitForJQueryMap = setInterval(function () {
   if (typeof $ != "undefined") {
     $(function () {
       const map = new jvm.Map({
@@ -70,6 +70,6 @@ const waitForJQuery = setInterval(function () {
       map.setSelectedRegions('CA-BC')
       $("#chapter-info-CA-BC").show();
     });
-    clearInterval(waitForJQuery);
+    clearInterval(waitForJQueryMap);
   }
 }, 10);

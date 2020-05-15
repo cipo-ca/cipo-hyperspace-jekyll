@@ -127,24 +127,28 @@ sections:
           aliquam turpis mauris, sed ultricies erat dapibus.
         icon: fa-users
         bg: images/people-coffee-meeting-team-7096.jpg
+        link: /join
       - title: Volunteer with CIPO
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         icon: fa-hands-helping
         bg: images/remi-walle-UOwvwZ9Dy6w-unsplash.jpg
+        link: /volunteer
       - title: Find an event
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         icon: fa-calendar-check
         bg: images/angela-bailey-GfUk_pFtjz0-unsplash.jpg
+        link: /events
       - title: Donate
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         icon: fa-donate
         bg: images/united-nations-covid-19-response-gAcTJQ4O67g-unsplash.gif
+        link: /donate
     component: calls-to-action.html
     type: features
 menus:
