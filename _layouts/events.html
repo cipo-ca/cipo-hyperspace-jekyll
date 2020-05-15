@@ -13,7 +13,9 @@ layout: body
       0 -%}
       <ul class="events">
         {%- for event in site.data.contentful.spaces.cipo-website.event -%}
-        <a class="event-link" href="{{ event.url | relative_url }}"><h3>{{ event.title }}</h3></a>
+        <a class="event-link" href="{{ event.url | relative_url }}"
+          ><h3>{{ event.title }}</h3></a
+        >
         <li>
           <table>
             <tr>
@@ -26,7 +28,11 @@ layout: body
             </tr>
             <tr>
               <th>Location</th>
-              <td>{{ event.location }}</td>
+              <td>
+                {% if event.location contains '://' %}
+                <a href="{{ event.location }}">link</a>
+                {% else %} {{ event.location }} {% endif %}
+              </td>
             </tr>
             <tr>
               <td colspan="2">

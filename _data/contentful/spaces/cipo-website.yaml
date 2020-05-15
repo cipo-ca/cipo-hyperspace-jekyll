@@ -1,12 +1,12 @@
 ---
 event:
 - sys:
-    id: m3l4RCnQdezmyHeujMu38
-    created_at: !ruby/object:DateTime 2020-05-14 19:43:05.424000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 23:19:54.452000000 Z
+    id: 59EkhZ6Yyzi0bx3uFby7re
+    created_at: !ruby/object:DateTime 2020-05-15 14:01:21.278000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 14:01:21.278000000 Z
     content_type_id: event
-    revision: 2
-  title: Ask The Experts Webinar with Dr Bunsen Honeydew
+    revision: 1
+  title: AGM
   description:
     data: {}
     content:
@@ -18,21 +18,19 @@ event:
           eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
           voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
           clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-          amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-          diam voluptua.
+          amet.
         nodeType: text
       nodeType: paragraph
     nodeType: document
-  location: http://www.cipo.ca
-  date: !ruby/object:DateTime 2020-06-01 00:00:00.000000000 Z
-  duration: 1.0
+  location: Fairmont Hotel, 900 W Georgia St, Vancouver, BC V6C 2W6
+  date: !ruby/object:DateTime 2020-10-01 12:00:00.000000000 -07:00
+  duration: 4.0
 - sys:
     id: 2lGVyj2Ss0PhiMw1TrQA06
     created_at: !ruby/object:DateTime 2020-05-14 19:40:03.207000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 19:40:03.207000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 13:38:23.428000000 Z
     content_type_id: event
-    revision: 1
+    revision: 3
   title: Virtual Patient Meetup
   description:
     data: {}
@@ -105,6 +103,33 @@ event:
   location: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
   date: !ruby/object:DateTime 2020-05-20 20:00:00.000000000 -04:00
   duration: 1.5
+- sys:
+    id: m3l4RCnQdezmyHeujMu38
+    created_at: !ruby/object:DateTime 2020-05-14 19:43:05.424000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 13:33:21.731000000 Z
+    content_type_id: event
+    revision: 3
+  title: Ask The Experts Webinar with Dr Bunsen Honeydew
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+          eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+          amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+          diam voluptua.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  location: http://www.cipo.ca
+  date: !ruby/object:DateTime 2020-05-01 00:00:00.000000000 Z
+  duration: 1.0
 page:
 - sys:
     id: 4VNzL2oWdIofjxn57aAbrU
