@@ -1,5 +1,10 @@
 #this-week {
-  .logo {
-    margin-bottom: 3em;
+  .inner {
+    .logo {
+      margin-bottom: 3em;
+    }
+    p {
+      color: white;
+    }
   }
 }

@@ -1,11 +1,65 @@
 ---
 video:
 - sys:
+    id: 7nwm26gLOnNo09OGhmFmCk
+    created_at: !ruby/object:DateTime 2020-04-29 00:32:05.568000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 23:22:24.665000000 Z
+    content_type_id: video
+    revision: 6
+  title: 'A Rare Condition (PID) | Chapter One: “What’s wrong with me?”'
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Annet, Peter, Jennifer, Tobias and Gary describe how Primary Immunodeficiency
+          Disease (PID) affected their lives long before it was even diagnosed.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  url: https://www.youtube.com/watch?v=5OC9oOeWudU
+  screenshot:
+    sys:
+      id: 1PbRqfZk3nKd74v5EEt7gw
+      created_at: !ruby/object:DateTime 2020-04-29 00:30:03.879000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-29 00:32:00.880000000 Z
+    title: A Rare Condition Screenshot
+    description: 
+    url: "//images.ctfassets.net/5s11nd0u2wnu/1PbRqfZk3nKd74v5EEt7gw/36e8ed5d6ce74cf8db251dad692e77ed/ararecondition-ss.jpg"
+  prominence: higher
+  tags:
+  - sys:
+      id: 4Zuxoh3geLqM62dRr0cNyA
+      created_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
+      content_type_id: tag
+      revision: 1
+    name: PID
+    slug: pid
+  - sys:
+      id: 1401LsmxnqFvx4JRNfDKJg
+      created_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
+      updated_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Diagnosis
+    slug: diagnosis
+  - sys:
+      id: 1KxmiCpVOJrouwU6nukdZo
+      created_at: !ruby/object:DateTime 2020-05-15 22:58:59.388000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:58:59.388000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Patient Stories
+    slug: patient-stories
+- sys:
     id: 4c2uKX9XPsj3oBRSEVX88F
     created_at: !ruby/object:DateTime 2020-04-28 00:45:27.355000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-15 21:12:04.948000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 23:19:20.808000000 Z
     content_type_id: video
-    revision: 3
+    revision: 4
   title: 'Plasma donation: what to expect?'
   description:
     data: {}
@@ -27,7 +81,7 @@ video:
     title: plasmadonation-ss
     description: 
     url: "//images.ctfassets.net/5s11nd0u2wnu/7sRHWtYif9x8NYqMeGsFtE/57eb6b8ae2dd70218107445b02a1f7f8/plasmadonation-ss.jpg"
-  prominence: higher
+  prominence: normal
   tags:
   - sys:
       id: 4GBRe9Mg2nrgKOGbOurXFz
@@ -40,9 +94,9 @@ video:
 - sys:
     id: 1CPgUdQqbqJAymz6dgxtNf
     created_at: !ruby/object:DateTime 2020-03-05 01:30:10.139000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-15 21:11:26.457000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:59:08.866000000 Z
     content_type_id: video
-    revision: 17
+    revision: 18
   title: Stories of patients with Primary Immunodeficiencies - Ewa Kapuścińska (CVID)
   description:
     data: {}
@@ -65,6 +119,15 @@ video:
     description: 
     url: "//images.ctfassets.net/5s11nd0u2wnu/4PGCBLeHm3i3BWjzcIJAqR/3b3667a402e0f0909443d9fba5b9e64a/ewa.jpg"
   prominence: normal
+  tags:
+  - sys:
+      id: 1KxmiCpVOJrouwU6nukdZo
+      created_at: !ruby/object:DateTime 2020-05-15 22:58:59.388000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:58:59.388000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Patient Stories
+    slug: patient-stories
 - sys:
     id: 5ziZkOpxw3smpo02W2rcvq
     created_at: !ruby/object:DateTime 2020-03-05 01:28:01.401000000 Z
@@ -134,184 +197,913 @@ video:
       revision: 1
     name: Plasma
     slug: plasma
+tag:
 - sys:
-    id: 7nwm26gLOnNo09OGhmFmCk
-    created_at: !ruby/object:DateTime 2020-04-29 00:32:05.568000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-29 22:57:04.250000000 Z
-    content_type_id: video
+    id: 1KxmiCpVOJrouwU6nukdZo
+    created_at: !ruby/object:DateTime 2020-05-15 22:58:59.388000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:58:59.388000000 Z
+    content_type_id: tag
+    revision: 1
+  name: Patient Stories
+  slug: patient-stories
+- sys:
+    id: CZ1HlBqlAsHKi1F8RCEVH
+    created_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+    content_type_id: tag
+    revision: 1
+  name: Disease Types
+  slug: disease-types
+- sys:
+    id: 5tlUByk2ssZkVUJg71kEdT
+    created_at: !ruby/object:DateTime 2020-05-15 22:16:26.779000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:17:32.224000000 Z
+    content_type_id: tag
     revision: 2
-  title: 'A Rare Condition (PID) | Chapter One: “What’s wrong with me?”'
-  description:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Annet, Peter, Jennifer, Tobias and Gary describe how Primary Immunodeficiency
-          Disease (PID) affected their lives long before it was even diagnosed.
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
-  url: https://www.youtube.com/watch?v=5OC9oOeWudU
-  screenshot:
+  name: Physiology
+  slug: physiology
+  children:
+  - sys:
+      id: 2PIrNa0d35Qg0GXXCy4d1Y
+      created_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Immune System
+    slug: immune-system
+- sys:
+    id: 2PIrNa0d35Qg0GXXCy4d1Y
+    created_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+    content_type_id: tag
+    revision: 1
+  name: Immune System
+  slug: immune-system
+- sys:
+    id: 3d435KWCJAHfgmeKEfl07D
+    created_at: !ruby/object:DateTime 2020-05-15 21:59:39.233000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 21:59:39.233000000 Z
+    content_type_id: tag
+    revision: 1
+  name: Research and Technology
+  slug: research-and-technology
+- sys:
+    id: 29NH0mYt9K5Vsu3o1G8VQG
+    created_at: !ruby/object:DateTime 2020-05-15 21:55:19.162000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 21:56:02.682000000 Z
+    content_type_id: tag
+    revision: 2
+  name: Health Advice
+  slug: health-advice
+- sys:
+    id: 1401LsmxnqFvx4JRNfDKJg
+    created_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
+    content_type_id: tag
+    revision: 1
+  name: Diagnosis
+  slug: diagnosis
+- sys:
+    id: 4Zuxoh3geLqM62dRr0cNyA
+    created_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
+    content_type_id: tag
+    revision: 1
+  name: PID
+  slug: pid
+- sys:
+    id: 4GBRe9Mg2nrgKOGbOurXFz
+    created_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+    updated_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
+    content_type_id: tag
+    revision: 1
+  name: Plasma
+  slug: plasma
+mediaFile:
+- sys:
+    id: 6hyURB4J3CuNg6U3vp2Qc3
+    created_at: !ruby/object:DateTime 2020-05-15 22:46:42.401000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:55:18.674000000 Z
+    content_type_id: mediaFile
+    revision: 2
+  title: Hyper IgM Syndrome
+  file:
     sys:
-      id: 1PbRqfZk3nKd74v5EEt7gw
-      created_at: !ruby/object:DateTime 2020-04-29 00:30:03.879000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-29 00:32:00.880000000 Z
-    title: A Rare Condition Screenshot
+      id: 52Ie1aisJNDc7TNqX8nWaW
+      created_at: !ruby/object:DateTime 2020-05-15 22:45:06.776000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:45:06.776000000 Z
+    title: Hyper-Igm-syndrome 06.02.08
     description: 
-    url: "//images.ctfassets.net/5s11nd0u2wnu/1PbRqfZk3nKd74v5EEt7gw/36e8ed5d6ce74cf8db251dad692e77ed/ararecondition-ss.jpg"
-  prominence: normal
+    url: "//assets.ctfassets.net/5s11nd0u2wnu/52Ie1aisJNDc7TNqX8nWaW/439932bfd6a7c4ea460f130c1402943e/Hyper-Igm-syndrome_06.02.08.pdf"
   tags:
   - sys:
-      id: 4Zuxoh3geLqM62dRr0cNyA
-      created_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
+      id: CZ1HlBqlAsHKi1F8RCEVH
+      created_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
       content_type_id: tag
       revision: 1
-    name: PID
-    slug: pid
+    name: Disease Types
+    slug: disease-types
   - sys:
-      id: 1401LsmxnqFvx4JRNfDKJg
-      created_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
-      updated_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
+      id: 2PIrNa0d35Qg0GXXCy4d1Y
+      created_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
       content_type_id: tag
       revision: 1
-    name: Diagnosis
-    slug: diagnosis
-event:
+    name: Immune System
+    slug: immune-system
 - sys:
-    id: 59EkhZ6Yyzi0bx3uFby7re
-    created_at: !ruby/object:DateTime 2020-05-15 14:01:21.278000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-15 14:01:21.278000000 Z
-    content_type_id: event
+    id: 6wyXHfNYYPBKLZfiLKJLZA
+    created_at: !ruby/object:DateTime 2020-05-15 22:44:55.230000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:55:04.734000000 Z
+    content_type_id: mediaFile
+    revision: 2
+  title: Chronic Granulomatous Disease
+  file:
+    sys:
+      id: 5ptNjDsPNb4aW2r8GvesSh
+      created_at: !ruby/object:DateTime 2020-05-15 22:45:06.736000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:45:06.736000000 Z
+    title: Chronic-granulomatous-disease 06.02.08
+    description: 
+    url: "//assets.ctfassets.net/5s11nd0u2wnu/5ptNjDsPNb4aW2r8GvesSh/548e92bc8edf22b33f7e7cef074fb3a3/Chronic-granulomatous-disease_06.02.08.pdf"
+  tags:
+  - sys:
+      id: CZ1HlBqlAsHKi1F8RCEVH
+      created_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Disease Types
+    slug: disease-types
+  - sys:
+      id: 2PIrNa0d35Qg0GXXCy4d1Y
+      created_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Immune System
+    slug: immune-system
+- sys:
+    id: 2uD8bQRVhBMG5ENg84xQt
+    created_at: !ruby/object:DateTime 2020-05-15 22:47:43.236000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:54:54.080000000 Z
+    content_type_id: mediaFile
+    revision: 2
+  title: X-Linked Agammaglobulinemia
+  file:
+    sys:
+      id: yu9CggrPHxDm67QalM0zr
+      created_at: !ruby/object:DateTime 2020-05-15 22:45:06.767000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:45:06.767000000 Z
+    title: X-linked-agammaglobulinemia 06.02.08
+    description: 
+    url: "//assets.ctfassets.net/5s11nd0u2wnu/yu9CggrPHxDm67QalM0zr/0c2642ef965d49773e986de2eacbb110/X-linked-agammaglobulinemia_06.02.08.pdf"
+  tags:
+  - sys:
+      id: CZ1HlBqlAsHKi1F8RCEVH
+      created_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Disease Types
+    slug: disease-types
+  - sys:
+      id: 2PIrNa0d35Qg0GXXCy4d1Y
+      created_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Immune System
+    slug: immune-system
+- sys:
+    id: 42AQu3nbHpCSR9PxBCkxyL
+    created_at: !ruby/object:DateTime 2020-05-15 22:48:44.267000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:54:40.004000000 Z
+    content_type_id: mediaFile
+    revision: 2
+  title: Severe Combined Immunodeficiency
+  file:
+    sys:
+      id: 6GkwdieRGjTVblk6bsKhmB
+      created_at: !ruby/object:DateTime 2020-05-15 22:45:06.759000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:45:06.759000000 Z
+    title: Severe-combined-immunodeficiency 06.02.08
+    description: 
+    url: "//assets.ctfassets.net/5s11nd0u2wnu/6GkwdieRGjTVblk6bsKhmB/d026d22e6207df8258a374d9e6c4e359/Severe-combined-immunodeficiency_06.02.08.pdf"
+  tags:
+  - sys:
+      id: CZ1HlBqlAsHKi1F8RCEVH
+      created_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Disease Types
+    slug: disease-types
+  - sys:
+      id: 2PIrNa0d35Qg0GXXCy4d1Y
+      created_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Immune System
+    slug: immune-system
+- sys:
+    id: 4bJDLijb2sOgb0iFp63cxt
+    created_at: !ruby/object:DateTime 2020-05-15 22:54:21.745000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:54:21.745000000 Z
+    content_type_id: mediaFile
     revision: 1
-  title: AGM
-  description:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-          eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-          voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-          amet.
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
-  location: Fairmont Hotel, 900 W Georgia St, Vancouver, BC V6C 2W6
-  date: !ruby/object:DateTime 2020-10-01 12:00:00.000000000 -07:00
-  duration: 4.0
+  title: Wiskott Aldrich Syndrome
+  file:
+    sys:
+      id: 7nb50oKocgwghixsFt9VWN
+      created_at: !ruby/object:DateTime 2020-05-15 22:45:06.739000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:45:06.739000000 Z
+    title: Wiskott-aldrich-syndrome 06.02.08
+    description: 
+    url: "//assets.ctfassets.net/5s11nd0u2wnu/7nb50oKocgwghixsFt9VWN/de9c31df639650bb7b0f118ee3ffe8bb/Wiskott-aldrich-syndrome_06.02.08.pdf"
+  tags:
+  - sys:
+      id: 2PIrNa0d35Qg0GXXCy4d1Y
+      created_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Immune System
+    slug: immune-system
+  - sys:
+      id: CZ1HlBqlAsHKi1F8RCEVH
+      created_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Disease Types
+    slug: disease-types
 - sys:
-    id: 2lGVyj2Ss0PhiMw1TrQA06
-    created_at: !ruby/object:DateTime 2020-05-14 19:40:03.207000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-15 13:38:23.428000000 Z
-    content_type_id: event
-    revision: 3
-  title: Virtual Patient Meetup
-  description:
+    id: 2UN8YSVl7CQfLwRnUhH08O
+    created_at: !ruby/object:DateTime 2020-05-15 22:53:02.596000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:53:02.596000000 Z
+    content_type_id: mediaFile
+    revision: 1
+  title: Common Variable Immunodeficiency
+  file:
+    sys:
+      id: 6Iry09NpCllyYvsqvWtahq
+      created_at: !ruby/object:DateTime 2020-05-15 22:45:06.750000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:45:06.750000000 Z
+    title: Common-variable-immunodeficiency 06.02.08
+    description: 
+    url: "//assets.ctfassets.net/5s11nd0u2wnu/6Iry09NpCllyYvsqvWtahq/c61e5be0db1a72fd9d3668bd85146876/Common-variable-immunodeficiency_06.02.08.pdf"
+  tags:
+  - sys:
+      id: CZ1HlBqlAsHKi1F8RCEVH
+      created_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:44:44.168000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Disease Types
+    slug: disease-types
+  - sys:
+      id: 2PIrNa0d35Qg0GXXCy4d1Y
+      created_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      updated_at: !ruby/object:DateTime 2020-05-15 22:17:16.329000000 Z
+      content_type_id: tag
+      revision: 1
+    name: Immune System
+    slug: immune-system
+page:
+- sys:
+    id: 6dUA9jgrw6obSMJehsTVCS
+    created_at: !ruby/object:DateTime 2020-05-13 17:05:14.773000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:32:24.232000000 Z
+    content_type_id: page
+    revision: 4
+  title: New Tech & Innovation
+  body:
     data: {}
     content:
     - data: {}
       content:
-      - data: {}
-        marks: []
-        value: We know that the current pandemic can be isolating, so we’ve created
-          a virtual space for PI patients and family to come together and connect.
-          Join us 
-        nodeType: text
       - data: {}
         marks:
         - type: bold
-        value: every Wednesday at 8pm Eastern (5pm Pacific).
+        value: Advancement in Therapy & Treatment
         nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
       - data: {}
-        marks: []
-        value: " This will be a an ongoing meet up, to talk to others across Canada
-          who share a similar lived experience. Join the meeting here: "
-        nodeType: text
-      - data:
-          uri: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
         content:
         - data: {}
-          marks: []
-          value: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
-          nodeType: text
-        nodeType: hyperlink
+          content:
+          - data: {}
+            marks: []
+            value: 'Inhaled antibiotics have been used to treat Cystic Fibrosis patients
+              for some time, however, it was thought that they may help a portion
+              of PI patients - those with bronchiectasis or chronic lung disease. '
+            nodeType: text
+          - data:
+              uri: https://www.ncbi.nlm.nih.gov/pubmed/31405826
+            content:
+            - data: {}
+              marks:
+              - type: underline
+              value: https://www.ncbi.nlm.nih.gov/pubmed/31405826
+              nodeType: text
+            nodeType: hyperlink
+          - data: {}
+            marks: []
+            value: ''
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
       - data: {}
-        marks: []
-        value: ''
-        nodeType: text
-      nodeType: paragraph
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'A Phase I trial completed last year in Europe, showed promising
+              results for an inhaled immune globulin. This inhaled IG, would not be
+              a replacement for IVIG or SCIG, but may help patients with chronic upper
+              respiratory infections. '
+            nodeType: text
+          - data:
+              uri: https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-019-1057-3
+            content:
+            - data: {}
+              marks:
+              - type: underline
+              value: https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-019-1057-3
+              nodeType: text
+            nodeType: hyperlink
+          - data: {}
+            marks: []
+            value: ''
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
     - data: {}
       content:
       - data: {}
         marks: []
-        value: 'New to GoToMeeting? Get the app now and be ready when your first meeting
-          starts:
-
-'
+        value: Genetic Therapy
         nodeType: text
-      - data:
-          uri: https://global.gotomeeting.com/install/616402533
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
         content:
         - data: {}
-          marks: []
-          value: https://global.gotomeeting.com/install/616402533
-          nodeType: text
-        nodeType: hyperlink
+          content:
+          - data: {}
+            marks: []
+            value: In current Phase III trials in Europe, Orchard Therapeutics, is
+              developing a gene therapy for ADA-SCID.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
       - data: {}
-        marks: []
-        value: ''
-        nodeType: text
-      nodeType: paragraph
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: In current Phase III trials in Europe, Orchard Therapeutics, is
+              developing a gene therapy for Wiskott-Aldrich Syndrome (WAS).
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: In Europe, Orchard Therapeutics, are planning a clinical trial
+              for X-linked Chronic granulomatous disease. 
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: Mustang Bio is doing a multi-centre gene therapy study (US/UK)
+              entering Phase II for X-linked SCID.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
     - data: {}
       content:
       - data: {}
         marks: []
-        value: This is a time for the PI community to talk. Please note that a CIPO
-          staff member or volunteer will be on the virtual call for monitoring, but
-          will not be actively taking part. Any questions regarding CIPO and our activities
-          or programs can be addressed directly to CIPO by emailing info@cipo.ca or
-          by telephoning 1-877-607-2476. 
+        value: Technology
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: CSL Behring introduced the Pre-Filled Syringe in Canada in 2017
+              in the 10ml format. This year, 2020, they will also be introducing PFS
+              in 2ml, 5ml, and 20ml.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: CSL Behring is developing a “disk” which patients would adhere
+              onto the infusion site. A button would activate the infusion needle
+              and immune globulin, starting the infusion.
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Clinical Trials
+        nodeType: text
+      nodeType: heading-2
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'Current: For a list of clinical trials currently recruiting and
+              not yet recruiting, '
+            nodeType: text
+          - data:
+              uri: http://clinicaltrials.gov
+            content:
+            - data: {}
+              marks:
+              - type: underline
+              value: clinicaltrials.gov
+              nodeType: text
+            nodeType: hyperlink
+          - data: {}
+            marks: []
+            value: ''
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'Disrupted: For a list of disrupted clinical trials due to COVID-19, '
+            nodeType: text
+          - data:
+              uri: https://www.biopharmadive.com/news/coronavirus-clinical-trial-disruption-biotech-pharma/574609/
+            content:
+            - data: {}
+              marks:
+              - type: underline
+              value: Disrupted Clinical Trials
+              nodeType: text
+            nodeType: hyperlink
+          - data: {}
+            marks: []
+            value: ''
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: unordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: ''
         nodeType: text
       nodeType: paragraph
     nodeType: document
-  location: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
-  date: !ruby/object:DateTime 2020-05-20 20:00:00.000000000 -04:00
-  duration: 1.5
+  slug: new-tech-and-innovation
 - sys:
-    id: m3l4RCnQdezmyHeujMu38
-    created_at: !ruby/object:DateTime 2020-05-14 19:43:05.424000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-15 13:33:21.731000000 Z
-    content_type_id: event
-    revision: 3
-  title: Ask The Experts Webinar with Dr Bunsen Honeydew
-  description:
+    id: 23WVtchkLO28XdqiEkFXxK
+    created_at: !ruby/object:DateTime 2020-05-15 22:19:50.311000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 22:19:50.311000000 Z
+    content_type_id: page
+    revision: 1
+  title: The Immune System
+  body:
     data: {}
     content:
     - data: {}
       content:
       - data: {}
         marks: []
-        value: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-          eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-          voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-          amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-          diam voluptua.
+        value: To be immune means to be protected. So it makes sense that the body
+          system that helps fight off sickness is called the immune system. The immune
+          system is made up of a network of cells, tissues, and organs that work together
+          to protect the body.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'White blood cells, also called leukocytes (say: LOO-kuh-sytes), are
+          part of this defence system. There are two basic types of these germ-fighting
+          cells:'
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'phagocytes (say: FAH-guh-sytes), which chew up invading germs'
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      - data: {}
+        content:
+        - data: {}
+          content:
+          - data: {}
+            marks: []
+            value: 'lymphocytes (say: LIM-fuh-sytes), which allow the body to remember
+              and recognize previous invaders'
+            nodeType: text
+          nodeType: paragraph
+        nodeType: list-item
+      nodeType: ordered-list
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Leukocytes are found in lots of places, including your spleen, an organ
+          in your belly that filters blood and helps fight infections. Leukocytes
+          also can be found in bone marrow, which is a thick, spongy jelly inside
+          your bones.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'Your lymphatic (say: lim-FAH-tik) system is home to these germ-fighting
+          cells, too. You’ve encountered your lymphatic system if you’ve ever had
+          swollen “glands” on the sides of your neck, like when you have a sore throat.
+          Although we call them “glands,” they are actually lymph nodes, and they
+          contain clusters of immune system cells. Normally, lymph nodes are small
+          and round and you don’t notice them. But when they’re swollen, it means
+          your immune system is at work.'
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Lymph nodes work like filters to remove germs that could make you sick.
+          Lymph nodes, and the tiny channels that connect them to each other, contain
+          lymph, a clear fluid with leukocytes (white blood cells) in it. Beside your
+          neck, where else do you have lymph nodes? Behind your knees, in your armpits,
+          and in your groin — just to name a few.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: So you have this great system in place. Is it enough to keep you from
+          getting sick? Well, everyone gets sick sometimes. But your immune system
+          helps you get well again. And if you’ve had your shots (also called vaccines),
+          your body is extra-prepared to fight off serious illnesses that your immune
+          system alone might not handle very well. If you get the shot that covers
+          measles, for instance, it can protect you from getting measles, if you’re
+          ever exposed to it.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Sometimes a person has a problem with his or her immune system. Allergies are
+          one kind of problem — the immune system overreacts and treats something
+          harmless, like peanuts, as something really dangerous to the body.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: With certain medical conditions, such as lupus or most antibody deficiencies,
+          instead of fighting germs, the immune system attacks the patient’s own body.
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: You cannot prevent primary immunodeficiencies. But, consult a doctor
+          for treatment options and take the time to find out ways to help live your
+          life and feel good again.
         nodeType: text
       nodeType: paragraph
     nodeType: document
-  location: http://www.cipo.ca
-  date: !ruby/object:DateTime 2020-05-01 00:00:00.000000000 Z
-  duration: 1.0
-page:
+  slug: the-immune-system
+- sys:
+    id: 55rPpJ5hlbJyPD82hbHXn1
+    created_at: !ruby/object:DateTime 2020-05-15 21:57:15.613000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 21:57:15.613000000 Z
+    content_type_id: page
+    revision: 1
+  title: General Care
+  body:
+    nodeType: document
+    data: {}
+    content:
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Living with a primary immunodeficiency disease can be life changing.
+          In this section, we look at ways that you can take care of your body (or
+          your loved one’s) in order to reduce the chances of infection and increase
+          general health.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Nutrition
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: A balanced and healthy diet, with the daily recommended amounts of
+          fruits, vegetables, fibre, protein and calcium should be maintained
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: There is no scientific evidence that any product will boost the immune
+          system or make it stronger. Extreme caution should be used when considering
+          taking any of these products. Some of these supplements can be harmful or
+          interact adversely with prescription medicines the individual is already
+          taking. The healthcare provider’s opinion should always be sought before
+          taking any of these products. Sometimes the provider will recommend vitamins,
+          electrolyte supplementation or probiotics for certain patients but remember
+          that supplements are no substitute for a healthy, balanced diet.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Hygiene
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: 'One of the most important things for primary immunodeficiency patients
+          is good hygiene. A good hand washing routine should be established. Hands
+          should be washed with soap and water for 30 seconds, the following times
+          during the day: before and after meals, after using the toilet, after coughing,
+          sneezing or blowing one’s nose, upon returning home, and any time that a
+          risk of germs is present.'
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: |-
+          Purell or other gel-based hand sanitizers can be used in situations where soap and water is not readily available.
+          A common sense approach to infection prevention is generally the best policy to follow. Individuals with a primary immunodeficiency should avoid exposure to people who have signs of an obvious infection, like people who are coughing, have a fever or have vomiting and/or diarrhea. During periods of influenza outbreaks, it might be wise to avoid crowded areas such as shopping centers and movie theatres. Many PI patients people have questions about flying or other travel. When in doubt, ask the immunologist or primary healthcare provider for advice.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Sleep
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Getting an adequate amount of sleep is an essential requirement for
+          good health. Most scientists recommend a consistent number of hours of sleep
+          per night and consistent bed times and waking times, as well. While “sleeping
+          in” on a Saturday may seem like a special treat, it may not be the best
+          thing to do to insure good health. Erratic sleep patterns have been shown
+          to have negative effects on the immune system
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Vaccines
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: Since vaccines for chicken pox, measles, mumps, smallpox, rubella,
+          rotavirus, BCG, yellow fever, oral polio and the influenza nasal spray are
+          live attenuated vaccines, individuals with primary immunodeficiency diseases
+          could potentially contract infections if they receive these immunizations.
+          In practice, infants with Severe Combined Immune Deficiency (SCID) are at
+          greatest risk and it is the general recommendation that others with defects
+          in adaptive immunity also avoid receiving any live agent vaccines. Since
+          some of these live vaccine viruses (oral polio, rotavirus) can be found
+          in the some body fluids and stools for up to two weeks following vaccination,
+          it may be necessary to limit contact between any recently immunized individual
+          and infants with SCID until the period of viral shedding has passed. For
+          children and adults with PI who are receiving immunoglobulin (Ig) replacement
+          treatment, the infused antibodies should give them adequate protection from
+          any secondary spread of vaccine virus.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: We recommend that all members of a family, including the patient, should
+          keep their immunizations up-to-date. This is particularly important for
+          readily communicable diseases like influenza with many different strains
+          circulating that change from year to year. This is because some patients
+          with a PI may respond and benefit directly from the influenza vaccine. Even
+          if they do not, there is little down side to receiving the killed vaccine.
+          Family members who are able to respond to a vaccine will be protected. Even
+          if the PI patient does not respond to the immunization, they will benefit
+          from having everyone else in the home protected from infection and thus
+          not susceptible to bringing the virus home with them. This is particularly
+          important if there are other school-aged children in the home. We want to
+          create a “protective cocoon” of immunized persons surrounding the PI patients
+          so that they have less chance of being exposed to a potentially serious
+          infection like influenza. CIPO is a proud member of the IFA World Coalition
+          on Adult Vaccination.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        value: Illness
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: 'Due to the nature of primary immunodeficiency diseases, patients are
+          likely to experience illness more often. When ill:'
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: unordered-list
+      content:
+      - nodeType: list-item
+        data: {}
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Rest
+            marks: []
+            data: {}
+          data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Drink fluids
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Seek medical attention, if necessary. Do not think that a fever
+              will go away…
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Do NOT self-medicate
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Use a saline nasal rinse to help clear sinuses
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Follow doctor’s orders (stay home, in bed, etc.)
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      - nodeType: list-item
+        content:
+        - nodeType: paragraph
+          content:
+          - nodeType: text
+            value: Keep stress levels low
+            marks: []
+            data: {}
+          data: {}
+        data: {}
+      data: {}
+    - nodeType: heading-2
+      content:
+      - nodeType: text
+        data: {}
+        value: Stress
+        marks: []
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: |-
+          The notion that people get sick more often when they are under increased stress is supported by scientific data. Chronic illness, itself, is known to be a major life stressor. Some studies suggest that stress negatively affects the functioning of the immune system. There are also scientific studies that suggest reducing stress can improve immune function. Many stress reducers are easy to incorporate into one’s daily life. These include massage therapy, biofeedback, meditation and hobbies. The importance of physical activity and adequate sleep in helping to reduce stress has already been discussed.
+          If you find that you are unable to deal with the stresses in your life, you should absolutely discuss these concerns with your primary care provider. They can assist you or refer you to someone who can help you to minimize and effectively deal with stress. You should never feel that there is nothing that can be done for the stress that you feel is overwhelming and keeps you from living and enjoying your life.
+        marks: []
+        data: {}
+      data: {}
+    - nodeType: paragraph
+      content:
+      - nodeType: text
+        value: "* "
+        marks: []
+        data: {}
+      - nodeType: text
+        value: Reproduced with thanks to our friends at the 
+        marks:
+        - type: bold
+        data: {}
+      - nodeType: hyperlink
+        content:
+        - nodeType: text
+          value: Immune Deficiency Foundation
+          marks:
+          - type: bold
+          data: {}
+        data:
+          uri: http://primaryimmune.org/
+      - nodeType: text
+        value: "."
+        marks:
+        - type: bold
+        data: {}
+      data: {}
+  slug: general-care
 - sys:
     id: 4VNzL2oWdIofjxn57aAbrU
     created_at: !ruby/object:DateTime 2020-05-13 17:04:50.048000000 Z
@@ -408,232 +1200,6 @@ page:
         data: {}
       data: {}
   slug: education
-- sys:
-    id: 6dUA9jgrw6obSMJehsTVCS
-    created_at: !ruby/object:DateTime 2020-05-13 17:05:14.773000000 Z
-    updated_at: !ruby/object:DateTime 2020-05-14 00:14:11.565000000 Z
-    content_type_id: page
-    revision: 3
-  title: New Tech & Innovation
-  body:
-    nodeType: document
-    data: {}
-    content:
-    - nodeType: heading-2
-      content:
-      - nodeType: text
-        value: Advancement in Therapy & Treatment
-        marks:
-        - type: bold
-        data: {}
-      data: {}
-    - nodeType: unordered-list
-      content:
-      - nodeType: list-item
-        data: {}
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: 'Inhaled antibiotics have been used to treat Cystic Fibrosis patients
-              for some time, however, it was thought that they may help a portion
-              of PI patients - those with bronchiectasis or chronic lung disease. '
-            marks: []
-            data: {}
-          - nodeType: hyperlink
-            content:
-            - nodeType: text
-              value: https://www.ncbi.nlm.nih.gov/pubmed/31405826
-              marks:
-              - type: underline
-              data: {}
-            data:
-              uri: https://www.ncbi.nlm.nih.gov/pubmed/31405826
-          - nodeType: text
-            value: ''
-            marks: []
-            data: {}
-          data: {}
-      - nodeType: list-item
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: 'A Phase I trial completed last year in Europe, showed promising
-              results for an inhaled immune globulin. This inhaled IG, would not be
-              a replacement for IVIG or SCIG, but may help patients with chronic upper
-              respiratory infections. '
-            marks: []
-            data: {}
-          - nodeType: hyperlink
-            content:
-            - nodeType: text
-              value: https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-019-1057-3
-              marks:
-              - type: underline
-              data: {}
-            data:
-              uri: https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-019-1057-3
-          - nodeType: text
-            value: ''
-            marks: []
-            data: {}
-          data: {}
-        data: {}
-      data: {}
-    - nodeType: heading-2
-      content:
-      - nodeType: text
-        data: {}
-        value: Genetic Therapy
-        marks: []
-      data: {}
-    - nodeType: unordered-list
-      content:
-      - nodeType: list-item
-        data: {}
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: In current Phase III trials in Europe, Orchard Therapeutics, is
-              developing a gene therapy for ADA-SCID.
-            marks: []
-            data: {}
-          data: {}
-      - nodeType: list-item
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: In current Phase III trials in Europe, Orchard Therapeutics, is
-              developing a gene therapy for Wiskott-Aldrich Syndrome (WAS).
-            marks: []
-            data: {}
-          data: {}
-        data: {}
-      - nodeType: list-item
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: In Europe, Orchard Therapeutics, are planning a clinical trial
-              for X-linked Chronic granulomatous disease. 
-            marks: []
-            data: {}
-          data: {}
-        data: {}
-      - nodeType: list-item
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: Mustang Bio is doing a multi-centre gene therapy study (US/UK)
-              entering Phase II for X-linked SCID.
-            marks: []
-            data: {}
-          data: {}
-        data: {}
-      data: {}
-    - nodeType: heading-2
-      content:
-      - nodeType: text
-        data: {}
-        value: Technology
-        marks: []
-      data: {}
-    - nodeType: unordered-list
-      content:
-      - nodeType: list-item
-        data: {}
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: CSL Behring introduced the Pre-Filled Syringe in Canada in 2017
-              in the 10ml format. This year, 2020, they will also be introducing PFS
-              in 2ml, 5ml, and 20ml.
-            marks: []
-            data: {}
-          data: {}
-      - nodeType: list-item
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: CSL Behring is developing a “disk” which patients would adhere
-              onto the infusion site. A button would activate the infusion needle
-              and immune globulin, starting the infusion.
-            marks: []
-            data: {}
-          data: {}
-        data: {}
-      data: {}
-    - nodeType: heading-2
-      content:
-      - nodeType: text
-        data: {}
-        value: Clinical Trials
-        marks: []
-      data: {}
-    - nodeType: unordered-list
-      content:
-      - nodeType: list-item
-        data: {}
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: 'Current: For a list of clinical trials currently recruiting and
-              not yet recruiting, '
-            marks: []
-            data: {}
-          - nodeType: hyperlink
-            content:
-            - nodeType: text
-              value: clinicaltrials.gov
-              marks:
-              - type: underline
-              data: {}
-            data:
-              uri: http://clinicaltrials.gov
-          - nodeType: text
-            value: ''
-            marks: []
-            data: {}
-          data: {}
-      - nodeType: list-item
-        content:
-        - nodeType: paragraph
-          content:
-          - nodeType: text
-            value: 'Disrupted: For a list of disrupted clinical trials due to COVID-19, '
-            marks: []
-            data: {}
-          - nodeType: hyperlink
-            content:
-            - nodeType: text
-              value: Disrupted Clinical Trials
-              marks:
-              - type: underline
-              data: {}
-            data:
-              uri: https://www.biopharmadive.com/news/coronavirus-clinical-trial-disruption-biotech-pharma/574609/
-          - nodeType: text
-            value: ''
-            marks: []
-            data: {}
-          data: {}
-        data: {}
-      data: {}
-    - nodeType: paragraph
-      content:
-      - nodeType: text
-        data: {}
-        value: ''
-        marks: []
-      data: {}
-  slug: new-tech-and-innovation
 - sys:
     id: 42xb4xulQmUsYF7g2IQW2w
     created_at: !ruby/object:DateTime 2020-05-13 17:05:40.898000000 Z
@@ -1420,6 +1986,137 @@ page:
       nodeType: paragraph
     nodeType: document
   slug: about
+event:
+- sys:
+    id: 59EkhZ6Yyzi0bx3uFby7re
+    created_at: !ruby/object:DateTime 2020-05-15 14:01:21.278000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 14:01:21.278000000 Z
+    content_type_id: event
+    revision: 1
+  title: AGM
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+          eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+          amet.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  location: Fairmont Hotel, 900 W Georgia St, Vancouver, BC V6C 2W6
+  date: !ruby/object:DateTime 2020-10-01 12:00:00.000000000 -07:00
+  duration: 4.0
+- sys:
+    id: 2lGVyj2Ss0PhiMw1TrQA06
+    created_at: !ruby/object:DateTime 2020-05-14 19:40:03.207000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 13:38:23.428000000 Z
+    content_type_id: event
+    revision: 3
+  title: Virtual Patient Meetup
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: We know that the current pandemic can be isolating, so we’ve created
+          a virtual space for PI patients and family to come together and connect.
+          Join us 
+        nodeType: text
+      - data: {}
+        marks:
+        - type: bold
+        value: every Wednesday at 8pm Eastern (5pm Pacific).
+        nodeType: text
+      - data: {}
+        marks: []
+        value: " This will be a an ongoing meet up, to talk to others across Canada
+          who share a similar lived experience. Join the meeting here: "
+        nodeType: text
+      - data:
+          uri: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
+        content:
+        - data: {}
+          marks: []
+          value: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
+          nodeType: text
+        nodeType: hyperlink
+      - data: {}
+        marks: []
+        value: ''
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: 'New to GoToMeeting? Get the app now and be ready when your first meeting
+          starts:
+
+'
+        nodeType: text
+      - data:
+          uri: https://global.gotomeeting.com/install/616402533
+        content:
+        - data: {}
+          marks: []
+          value: https://global.gotomeeting.com/install/616402533
+          nodeType: text
+        nodeType: hyperlink
+      - data: {}
+        marks: []
+        value: ''
+        nodeType: text
+      nodeType: paragraph
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: This is a time for the PI community to talk. Please note that a CIPO
+          staff member or volunteer will be on the virtual call for monitoring, but
+          will not be actively taking part. Any questions regarding CIPO and our activities
+          or programs can be addressed directly to CIPO by emailing info@cipo.ca or
+          by telephoning 1-877-607-2476. 
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  location: https://www.gotomeet.me/cipowhitney/wednesday-night-pi-meetup
+  date: !ruby/object:DateTime 2020-05-20 20:00:00.000000000 -04:00
+  duration: 1.5
+- sys:
+    id: m3l4RCnQdezmyHeujMu38
+    created_at: !ruby/object:DateTime 2020-05-14 19:43:05.424000000 Z
+    updated_at: !ruby/object:DateTime 2020-05-15 13:33:21.731000000 Z
+    content_type_id: event
+    revision: 3
+  title: Ask The Experts Webinar with Dr Bunsen Honeydew
+  description:
+    data: {}
+    content:
+    - data: {}
+      content:
+      - data: {}
+        marks: []
+        value: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+          eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+          amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+          diam voluptua.
+        nodeType: text
+      nodeType: paragraph
+    nodeType: document
+  location: http://www.cipo.ca
+  date: !ruby/object:DateTime 2020-05-01 00:00:00.000000000 Z
+  duration: 1.0
 chapter:
 - sys:
     id: 69ODpiJ4NAr5XNbFzU8XKU
@@ -1543,31 +2240,6 @@ chapter:
     in 2018
   monthly_meetups: 'No'
   steering_committee: 'No'
-tag:
-- sys:
-    id: 1401LsmxnqFvx4JRNfDKJg
-    created_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-29 00:28:54.651000000 Z
-    content_type_id: tag
-    revision: 1
-  name: Diagnosis
-  slug: diagnosis
-- sys:
-    id: 4Zuxoh3geLqM62dRr0cNyA
-    created_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-29 00:21:13.676000000 Z
-    content_type_id: tag
-    revision: 1
-  name: PID
-  slug: pid
-- sys:
-    id: 4GBRe9Mg2nrgKOGbOurXFz
-    created_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
-    updated_at: !ruby/object:DateTime 2020-04-28 00:05:59.765000000 Z
-    content_type_id: tag
-    revision: 1
-  name: Plasma
-  slug: plasma
 campaign:
 - sys:
     id: VsLxzn9qs8xB7Zx2CEQSS
