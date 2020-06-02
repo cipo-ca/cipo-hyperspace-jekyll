@@ -1,6 +1,6 @@
 ---
-title: CIPO Vlog
-content_img_path: images/microphone.jpg
+title: Diseases and Treatment
+content_img_path: images/national-cancer-institute-egT3xtDu9DQ-unsplash.jpg
 home_spotlights:
   enabled: true
   weight: 1
@@ -8,10 +8,10 @@ home_spotlights:
     Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
     mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
   home_img:
-    path: images/microphone.jpg
+    path: images/national-cancer-institute-egT3xtDu9DQ-unsplash.jpg
     data_position: center center
     url: '#'
-layout: media-items
+layout: articles
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

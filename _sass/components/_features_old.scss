@@ -1,0 +1,112 @@
+///
+/// Hyperspace by Pixelarity
+/// pixelarity.com | hello@pixelarity.com
+/// License: pixelarity.com/license
+///
+
+/* Features */
+
+.features {
+  @include vendor("display", "flex");
+  @include vendor("flex-wrap", "wrap");
+  border-radius: _size(border-radius);
+  margin: 0 0 _size(element-margin) 0;
+  a {
+    span {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      z-index: 1;
+    }
+  }
+
+  section {
+    &.alt {
+      background-color: _palette(bg-alt);
+    }
+
+    &.style1 {
+      @include bg-color-or-image(_palette(accent1));
+    }
+
+    &.style1-alt {
+      background-image: linear-gradient(
+        to top left,
+        _palette(accent1),
+        _palette(accent2)
+      );
+    }
+
+    &.style2 {
+      @include bg-color-or-image(_palette(accent2));
+    }
+
+    &.style2-alt {
+      background-image: linear-gradient(
+        to bottom,
+        _palette(accent2),
+        _palette(accent3)
+      );
+    }
+
+    &.style3 {
+      @include bg-color-or-image(_palette(accent3));
+    }
+
+    &.style3-alt {
+      background-image: linear-gradient(
+        to bottom,
+        _palette(accent3),
+        _palette(accent4)
+      );
+    }
+
+    &.style4 {
+      @include bg-color-or-image(_palette(accent4));
+    }
+
+    //background-color: _palette(accent2);
+    @include padding(2em, 2em);
+    margin: 1em;
+    width: calc(50% - 2em);
+    //border-top: solid 1px _palette(border);
+    position: relative;
+
+    &:nth-child(-n + 2) {
+      border-top-width: 0;
+    }
+
+    &:nth-child(2n) {
+      //border-left: solid 1px _palette(border);
+    }
+    border-radius: 5px;
+  }
+
+  @include breakpoint("<=medium") {
+    display: block;
+
+    section {
+      //border-top-width: 1px !important;
+      border-left-width: 0 !important;
+      width: 100%;
+
+      &:first-child {
+        border-top-width: 0 !important;
+      }
+    }
+  }
+
+  @include breakpoint("<=small") {
+    section {
+      @include padding(2em, 1.5em, (0.5em, 0, 0, 4em));
+    }
+  }
+
+  @include breakpoint("<=xsmall") {
+    section {
+      @include padding(2em, 1.5em, (0, 0, 0, 0));
+    }
+  }
+}

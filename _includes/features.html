@@ -5,11 +5,11 @@
         {{ include.section.subtitle | markdownify }}
         <div class="features">
             {% for feature in include.section.features_list %}
-                <section style="background-image: url('{{ feature.bg }}'); background-size: cover">
+                <div class="feature {{ feature.background_style }}" >
                     <a href="{{ feature.link }}"><span></span></a>
                         <h3>{{ feature.title }}</h3>
                        {{ feature.text | markdownify }}
-                </section>
+                </div>
             {% endfor %}
         </div>
         {% assign actions_is_not_empty = include.section.actions | is_not_empty %}

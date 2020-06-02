@@ -1,0 +1,19 @@
+<section
+  id="{{ include.section.section_id }}"
+  class="wrapper {{ include.section.background_style }} fade-up"
+>
+  <div class="inner">
+    {%- if include.section.logo_img.size > 0 -%}
+    <img src="{{ include.section.logo_img }}" class="logo"/>
+    {% endif %}
+    {%- if include.section.subtitle.size > 0 -%}
+    {{ include.section.subtitle | markdownify }}
+    {% endif %}
+    <div id="buzzsprout-small-player-113385" class="embedded-player"></div>
+    <script
+      type="text/javascript"
+      charset="utf-8"
+      src="https://www.buzzsprout.com/1133852.js?container_id=buzzsprout-small-player-1133852&player=small&limit=1"
+    ></script>
+  </div>
+</section>

@@ -25,7 +25,7 @@ sections:
         for more than 20 years, CIPO has provided support, education and advocacy for patients and families 
         whose lives are affected by Primary Immunodeficiencies in Canada.
     section_id: this-week
-    background_style: style-bubbles fullscreen
+    background_style: style1 fullscreen
     component: this-week.html
     type: campaign
     actions:
@@ -48,39 +48,25 @@ sections:
           CIPO has you covered. Our Peer Support Program will pair you with a specially trained coach, 
           to help guide you through your patient journey.
         link: /peer-support-program
-        bg:
+        background_style: style1
       - title: Financial Assistance Program
         text: >-
           Are you overwhelmed because of your PI? You are not alone. 
           Our financial assistance program can help you get back on track.
         link: /financial-assistance-program
-        bg:
+        background_style: style2
       - title: PI Meetups
         text: >-
           These fun, informal get togethers help you connect and share with others who understand exactly what you are experiencing. 
           Come on out to one in your area! Can’t find one near you? We’ll give you everything you need to get you started.
         link: /pi-meetups
-        bg:
+        background_style:
       - title: Education Sessions
         text: >-
           CIPO will always do our best to keep you up-to-date and informed. 
           Learn about the very latest in treatments and disease states regarding PI.
         link: /education
-#      - title: Patient Advocacy
-#        text: >-
-#          CIPO is proud to be the voice of the PI community in Canada. 
-#          We continue to advocate on all levels of governement of issues relating to the PI, 
-#          including: IG and plasma supply, Newborn Screening, paid plasma, Emergency Medicine, Comprehensive Care, and more.
-#        icon: fa-chain
-#      - title: Research and Technology
-#        text: >-
-#          Find all you need to know to keep yourself up to date on the latest in research and technology in PI treatment and IG.
-#        icon: fa-code
-#    actions:
-#      - label: More
-#        url: "#learn"
-#        is_scrolly: true
-#        is_primary: true
+        background_style:
     component: features.html
     type: features
     actions:
@@ -90,7 +76,7 @@ sections:
         is_primary: true
   - title: Get Informed
     section_id: get-informed
-    background_style: style3-alt fullscreen
+    background_style: style3-alt
     component: spotlights.html
     type: spotlights
     actions:

@@ -45,15 +45,15 @@ $palette: (
     border:				rgba(255,255,255,0.15),
     border-bg:			rgba(255,255,255,0.05),
     accent1:			{{ palette.accent1 }},
-	accent1-alt:		adjust-hue({{ palette.accent1 }}, 20%),
+	accent1-alt:		if( is-type-of({{ palette.accent1-alt }}, color), {{ palette.accent1-alt }}, adjust-hue({{ palette.accent1 }}, 20%)),
 	accent2:			{{ palette.accent2 }},
-	accent2-alt:		adjust-hue({{ palette.accent2 }}, 20%),
+	accent2-alt:		if( is-type-of({{ palette.accent2-alt }}, color), {{ palette.accent2-alt }}, adjust-hue({{ palette.accent2 }}, 20%)),
     accent3:			{{ palette.accent3 }},
-	accent3-alt:		adjust-hue({{ palette.accent3 }}, 20%),
+	accent3-alt:		if( is-type-of({{ palette.accent3-alt }}, color), {{ palette.accent3-alt }}, adjust-hue({{ palette.accent3 }}, 20%)),
+    accent4:			{{ palette.accent4 }},
+	accent4-alt:		if( is-type-of({{ palette.accent4-alt }}, color), {{ palette.accent4-alt }}, adjust-hue({{ palette.accent4 }}, 20%)),
 	highlight:			{{ palette.highlight }},
-	highlight-alt:		adjust-hue({{ palette.highlight }}, 20%),
-															accent4:			{{ palette.accent4 }},
-accent4-alt:		adjust-hue({{ palette.accent4 }}, 20%),
+	highlight-alt:		if( is-type-of({{ palette.highlight-alt }}, color), {{ palette.highlight-alt }}, adjust-hue({{ palette.highlight }}, 20%)),
 );
 @import 'libs/functions';
 @import 'libs/mixins';
