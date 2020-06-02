@@ -2,9 +2,9 @@
 
 .features {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
   grid-gap: 1em;
-  grid-auto-rows: minmax(225px, auto);
+  grid-auto-rows: minmax(20em, auto);
   grid-auto-flow: dense;
   margin-bottom: 1.5em;
 
